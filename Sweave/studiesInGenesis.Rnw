@@ -1,0 +1,522 @@
+% =========================== studiesInGenesis.Rnw ==========================
+% 3456789012345678901234567890123456789012345678901234567890123456789012
+\documentclass[11pt,paper=letter,parskip=half,DIV=18,oneside,headinclude,footinclude=false,bibliography=totoc]{scrartcl}
+\usepackage[utf8]{inputenc}
+\input{./inc/jrm-koma-macros}
+
+%% general metadata:
+\newcommand{\theAuthor}{John Minter}
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ} 
+\newcommand{\theSubject}{Genesis} 
+\newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
+\newcommand{\theDate}{Spring, 2014}
+
+\pdfcompresslevel=9
+
+% automatic hyperlinks in document
+\usepackage[pagebackref=true]{hyperref}
+\hypersetup
+{
+colorlinks=true,
+% linkcolor=DarkerRed,
+linkcolor=threadlessFour,
+% citecolor=DarkGreen,
+citecolor=threadlessFour,
+% citecolor=threadlessTwo,
+urlcolor=NavyBlue,
+% urlcolor=threadlessFour,
+bookmarksnumbered=true,
+bookmarksopen=false,
+bookmarksopenlevel=1,
+pdfpagemode={UseOutlines},
+pdfpagelayout={SinglePage},
+pdfview=Fit,
+pdfstartview=Fit,
+pdfauthor={\theAuthor},
+pdfsubject={\theSubject},
+pdftitle={\theTitle},
+pdfkeywords={\theKeywords}
+}
+%
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+%
+% Set up Sweave...
+%
+<<echo=F,results=hide>>=
+# A hidden code chunk
+# start with a clean environment
+rm(list=ls())
+options(digits=4, width=65, continue=" ")
+# be sure to set as needed
+str.wd <- '~/work/proj/studiesInGenesis/Sweave/'
+setwd(str.wd)
+Sys.setenv(TEXINPUTS=str.wd)
+Sys.setenv(BIBINPUTS=str.wd)
+Sys.setenv(BSTINPUTS=str.wd)
+# make sure needed packages & functions are loaded
+require(xtable)
+@
+
+%% this is a very simple title w/o make title
+%% a logo at the upper right corner
+\includegraphics[width=1.5in]
+{./inc/Northgate.pdf} \\
+
+\begin{center}
+\LARGE{\textbf{\textcolor{DispositionColor}{\theTitle}}}
+\end{center}
+
+\large{
+\begin{tabular}{r l}
+\textbf{Author:}                  & \theAuthor  \\
+\textbf{Date:}                    & \theDate \\
+\end{tabular}
+}
+
+\section*{Abstract}
+\begin{abstract}
+
+In John 5:39-40, Jesus rebuked unbelieving Jews concerning their handling
+of the Scriptures, noting that they missed the point entirely.
+
+\begin{quotation}
+$^{39}$You search the Scriptures because you think that in them you have eternal life; and it is they that bear witness about me, $^{39}$yet you refuse to come to me that you may have life. [Jn 5:39--40, ESV]
+\end{quotation}
+
+On the Road to Emmaus, the risen Christ lovingly admonished the grieving
+disciples, explaining the Scriptures to them.
+
+\begin{quotation}
+$^{25}$And he said to them, ``O foolish ones, and slow of heart to
+believe all that the prophets have spoken! $^{26}$Was it not necessary
+that the Christ should suffer these things and enter into his glory?''
+$^{27}$And beginning with Moses and all the Prophets, he interpreted
+to them in all the Scriptures the things concerning himself. [Lk 24:25--27, ESV]
+\end{quotation}
+
+How we yearn to have been a ``fly on the wall'' of the best Bible study
+in human history! \vspace{8pt}
+
+Genesis is the first book of the Bible -- the book of beginnings --
+written by Moses. It is a long book -- 50 chapters, impossible to
+cover in its entirety in a quarter and do justice. Our objective for
+this quarter is to study several extended passages in Genesis and see
+how God foretold Christ through examples and types. Like we saw in
+Romans 1, effective authors put forward their thesis early and develop
+the supporting structure in subsequent chapters. Over the next quarter
+we will look through Genesis for evidence of God's thesis concerning
+the work and ministry of Christ. A recurring theme will be man's continued
+failure to consistently follow God and the need for Christ for any hope.
+
+\end{abstract}
+
+\pagenumbering{arabic}
+\thispagestyle{empty}
+
+% copyright at bottom of first page
+\begin{figure*}[b]
+\noindent
+\hrulefill \\
+\input{./inc/copyright.tex}
+\end{figure*}
+
+\raggedbottom
+
+\newpage
+
+{
+\setlength{\parskip}{0pt}
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\listoffigures
+
+\listoftables
+}
+
+\newpage
+
+
+<<echo=F,results=hide>>=
+# A hidden code chunk
+# start with a clean environment
+rm(list=ls())
+options(digits=4, width=65, continue=" ")
+# set as needed
+str.wd <- '~/work/proj/studiesInGenesis/Sweave/'
+setwd(str.wd)
+Sys.setenv(TEXINPUTS=str.wd)
+Sys.setenv(BIBINPUTS=str.wd)
+Sys.setenv(BSTINPUTS=str.wd)
+# make sure needed packages & functions are loaded
+
+# define any functions
+
+@
+
+\section{Creation Gen 1--2}
+
+\subsection{Gen 1:1 - God's thesis statement for these chapters}
+Moses present's God's thesis statement for Gen 1--2 in Gen 1:1. God
+claims here (and many other places) to have created all of what we
+call ``creation.'' God will explain through Moses the order, but
+here we see the central claim: There is a critical distinction
+between God and everything else. As created beings, the only way
+you and I can know truth and interpret our observations is to
+``think God's thoughts after him,'' scrutinizing our every thought
+under the lens of His Word.
+
+This is a good time to consider the parallel passages in Col 1 and
+Heb 1.
+
+\begin{quotation}
+$^{15}$He is the image of the invisible God, the firstborn of all
+creation. $^{16}$For by him all things were created, in heaven and
+on earth, visible and invisible, whether thrones or dominions or
+rulers or authorities--all things were created through him and for
+him. $^{17}$And he is before all things, and in him all things hold
+together. $^{18}$And he is the head of the body, the church. He is
+the beginning, the firstborn from the dead, that in everything he
+might be preeminent. $^{19}$For in him all the fullness of God was
+pleased to dwell, $^{20}$and through him to reconcile to himself all
+things, whether on earth or in heaven, making peace by the blood of
+his cross. [Col 1:15--20].
+\end{quotation}
+
+\begin{quotation}
+$^{1}$Long ago, at many times and in many ways, God spoke
+to our fathers by the prophets, $^{2}$but in these last days
+he has spoken to us by his Son, whom he appointed the heir of
+all things, through whom also he created the world. $^{3}$He is
+the radiance of the glory of God and the exact imprint of his
+nature, and he upholds the universe by the word of his power.
+After making purification for sins, he sat down at the right
+hand of the Majesty on high, $^{4}$having become as much
+superior to angels as the name he has inherited is more
+excellent than theirs. [Heb 1:1--4].
+\end{quotation}
+
+Here we see that Christ, God the Son, was the focal point of creation,
+and is the ``glue'' that holds it all together. We also see creation
+presented as a miraculous work of God to provide the stage for another
+miraculous work -- the work of redemption by Christ.
+
+As a Christian who earns a living `doing science', I have hope
+of finding answers because Christ created a universe that works
+according to His will and order.
+
+I would note that most of modern science \textbf{begins with a presupposition
+that rejects God} and therefore cannot know truth. As Paul writes in Rom 1,
+they exchanged the truth for a lie. They will not accept evidence to the
+contrary. Unless Christ extends them grace and opens their eyes, they
+are doomed - for all their cosmology, they are incapable of performing
+the required experiment: going back, reproducing the process, and
+rejecting their hypothesis\footnote{The naturalist philosopher of science,
+Karl Popper, correctly noted that a scientist cannot ``prove'' a hypothesis,
+but can only find results that appears to invalidates it.}. Nor do they 
+want to - because that would mean they would have to honor and worship
+God.
+
+\subsection{Gen 1:2--31: The six days of creation}
+
+In the remainder of Gen 1, Moses records God's account of His act of
+creation. We must let the text guide us to interpret the message that
+God is trying to communicate. Let us pose the question,
+
+\textcolor{threadlessFive}{What conclusions would God have us draw 
+regarding His work of creation from this section?}
+
+To answer this, we need to look at where God begins, the structure that
+He uses to communicate His message, and His final conclusions.
+
+\begin{enumerate}
+\item In Gen 1:2, God begins his description after his \emph{ex nihilo}
+creation of the universe and directs us to the earth's nacent state --
+formless or barren (\emph{tohu}) and void or disordered (\emph{bohu}).
+\item He then describes His imposition of order in six time periods --
+each described as a ``day'' (\emph{yom}). It is important to make two
+important notes here:
+\begin{itemize}
+\item Swanson's Dictionary of Biblical Languages, Hebrew Old Testament\cite{Swanson2001a} lists 28 nuanced use cases for the term \emph{yom}.
+As expected, the most common is for a single solar day. All describe some
+type of fixed time period, but the duration varies.
+\item In Gen 1, God's work completing the solar and lunar cycles is not
+completed until the the fourth \emph{yom}.
+\end{itemize}
+\item As we examine God's description of His actions on each \emph{yom},
+we observe His orderly, planned, sovereign work of creation, viewed from
+His frame of reference and with His evaluation of His work at each step
+-- He spoke (declared His will), brought it to fruition (sovereign work),
+and declared it ``good'' (pronounced judgement.)
+\end{enumerate}
+
+
+
+\subsubsection{Some conclusions we may draw with confidence}
+\begin{itemize}
+\item God has given us a completely trustworthy description of His work
+of creation, teaching us about His attributes in this description.
+\item The account is inconsistent with modern scientific cosmology
+because the proponents reject the creator by presupposition and present
+a model that cannot answer the critical question of origin - where did
+whatever went ``Big Bang'' come from? Neither can they go back and repeat
+the experiment and test their model. They take their conclusions on faith
+as we do ours.
+\item Everything in creation functions according to His will and plan.
+We have physics, chemistry, geology, and mathematics because He created
+them. I would note that His work is setting the stars (and planets) in
+place (Ps 8:3) would involve significant expansion (time is not constant
+as it is under our Newtonian view of physics) could explain some observations
+that arise in the old/young earth debate.
+\end{itemize}
+
+In God's answer to Job, we see that God's first appeal is to His work of
+creation as evidence of His power and deity and notes man's complete
+inability to engage Him in an intelligent discussion of the details.
+
+\begin{quotation}
+$^{1}$Then the LORD answered Job out of the whirlwind and said: 
+$^{2}$``Who is this that darkens counsel by words without knowledge? 
+$^{3}$Dress for action like a man; I will question you, and you
+make it known to me. 
+$^{4}$Where were you when I laid the foundation of the earth? 
+Tell me, if you have understanding. 
+$^{5}$Who determined its measurements--surely you know! 
+Or who stretched the line upon it? 
+$^{6}$On what were its bases sunk, or who laid its cornerstone, 
+$^{7}$when the morning stars sang together and all the sons of
+God shouted for joy?\ldots'' [Job 38:1--7, ESV]).
+\end{quotation}
+
+Despite all our learning, not much has changed. Only a fool would
+offer a response different than that of Job
+
+\begin{quotation}
+$^{3}$Then Job answered the LORD and said: 
+$^{4}$``Behold, I am of small account; what shall I answer you? 
+I lay my hand on my mouth. 
+$^{5}$I have spoken once, and I will not answer; 
+twice, but I will proceed no further.'' 
+[Job 40:3--5, ESV]
+\end{quotation}
+
+\subsection{Gen 2: God's plan and provison for man}
+
+In Genesis 2, God tells us that when His work of creation was done,
+He set the example for us by resting from His work. The subject turns
+to His plan for His image-bearer -- man.
+
+\begin{enumerate}
+\item God provides completely for man's physical needs -- creating
+a wonderful garden habitat (Gen 2:1-14)
+\item God provides a noble purpose for man -- a job as steward to
+oversee the garden (Gen 2:15)
+\item God provides one command for man: to not eat from one specific
+tree -- with clear consequences for violation: death. This gives the
+man a choice (Gen 2:16-17)
+\item God provides the man a woman for companionship an institutes
+marriage (Gen 2:18-24)
+\item The chapter ends with the man and the woman naked and unashamed--
+innocent (Gen 2:25)
+\end{enumerate}
+
+\section{The Fall Gen 3-4}
+
+Here we examine the fall of Adam and Eve into sin, the need for a savior,
+the concept of a blood atonement, and increased depravity of man with the
+murder of Abel.
+
+\subsection{The serpent Gen 3:1}
+The first new character we encounter is the serpent. (Gen 3:1). He is
+described here as ``crafty'' (\emph{arum}). The word has two
+connotations - one is positive: descerning. The second connotation
+is negative: desceptive. The context shows us that this is the case.
+We note here that the serpent speaks to Eve, questioning God's
+command, and later calling Him a liar.\footnote{The text tells
+us little of the serpent's pedigree
+here, but fills it in in later books. At some point between
+Gen 1:31 - where God declared everything he had made very good
+and Gen 3:1 where we meet the serpent,
+there had been a rebellion in heaven evidently led by Satan and accompanied
+by several other fallen angels. Jude talls of some of those fallen angels
+who have been kept in chains until their final judgement. Eze 38:11-19 is
+a lament from God that directs Ezekiel to apply against the King of
+Tyre, but the language evokes the character of Satan and many facets that
+could not be directly true of the King of Tyre - such as being present
+in the Garden of Eden. Here Satan is described as a created being tasked
+with the job of ``covering cherub'' and who had rebelled and God ejected.
+Clearly, there is some ``spiritual warfare'' going on under the surface
+here in Gen 3. However, that is secondary to God's purpose here in
+Gen 3.}
+
+\subsection{Conflicting Claims Gen 3:2-6}
+Note that Adam and Eve were confronted with conflicting claims from
+two individuals. Look back at the relationship they had with God, and
+what at least Adam had seen God do. Why would they trade the known,
+loving counsel from God for the smooth talk of the serpent? The text
+gives us a clue to their motives in v. 6.
+
+\subsection{The offense against God Gen 3:7-10}
+And so they broke the single commandment. The consequences were
+immediate - as shown in Gen 3:7.
+
+Contrast Gen 3:7 with Gen 2:25. They now saw shame in their nakedness.
+God will pick up on this metaphor later in Scripture (e.g. Nah 3:5 and
+Rev 3:18). They were no longer innocent; they had died spiritually and
+had a new nature - that of a sinner. This sin had permeated and infected
+every aspect of their being. Theologians call this ``the noetic effects
+of sin.''
+
+They also immediately knew terror at the thought of being in the
+presence of our Holy God, so they hid.
+
+\subsection{The blame game Gen 3:11-13}
+
+Note the fruit of their sin in their response to God.
+\begin{itemize}
+  \item Adam blames God because He gave Adam Eve. The wife he had so
+  highly praised in Gen 2.
+  \item Eve blames the serpent because he deceived her.
+  \item Neither confesses their motives from Gen 3:6 nor accepts
+  presponsibility for their actions. 
+\end{itemize}
+
+We clearly see the noetic effect of sin on their character.
+
+\subsection{Judgement Gen 3:}
+\begin{itemize}
+  \item \textbf{Judgement against the serpent (Gen 3:14-15)}
+  Pushed into the dust and destined to die by the seed of the
+  woman (the \emph{protevangel}) - the first hint of Christ's victory.
+
+  \item \textbf{Judgement against the woman (Gen 3:16)}
+  Pain in childbirth and forced to submit to her husband
+  regardless of whether he leads in love.
+
+  \item \textbf{Judgement against the man (Gen 3:17:19)}
+  Work became toil, producing food much more difficult for his
+  (and her) now limited life. They now got to know the fear of death.
+  Which would have been more terrifying: immediate death, or never
+  being sure whether today would be the day?
+\end{itemize}
+
+\subsection{God shows grace}
+\begin{itemize}
+  \item Then they are driven from the garden to prevent them
+  from being eternally in this state.
+
+  \item God clothed them in animal skins - he sacrificed an animal
+  and the blood covered their sin. 
+
+  \item Note: In all three cases, each knew the cost before the choice
+  and made the choice, willing to accept the consequences. God showed
+  mercy to Adam and Eve by not immediately tossing them into the Lake
+  of Fire for all eternity. They were now given the choice to believe
+  God and have it credited to them as righteousness. They had no
+  details but they did know God. They could trust and serve Him as
+  Lord or not. A new choice\ldots
+\end{itemize}
+\subsection{Cain and Abel}
+
+\subsection{A tale of two offerings: Gen 4:1-7}
+\begin{itemize}
+  \item Abel -- a shepherd -- brought an offering from the
+  ``first born of his flock and their fat portions'' - the 
+  very best and a blood sacrifice (Gen 4:4) and God accepted
+  it (Gen 4:5)
+  \item Cain -- a farmer -- brought an offering from ``the fruit of
+  the ground'' (Gen 4:3). God rejected this (Gen 4:5). Cain is angry,
+  and God both instructs (Gen 4:7a) and warns (Gen 4:7b) him.
+\end{itemize}
+
+\subsection{Cain murders Abel: Gen 4:8-16}
+\begin{itemize}
+  \item Cain ignores God's teaching and murders Abel in anger (Gen 4:8)
+  \item God confront's Cain, who feigns ignorance (Gen 4:9)
+  \item God is not mocked ``What have you done? The voice of your
+  brother's blood is crying to me from the ground.'' (Gen 4:10)
+  \item God pronounces judgement (Gen 4:11-12)
+  \item Cain complains that the punishment is unbearable (Gen 4:13-14)
+  \item God proclaims that he will execute vengance on anyone who
+  kills Cain (Gen 4:15-16)
+  \item Cain overstated punsishment because he had children and
+  they prospered (Gen 4:17-24)
+\end{itemize}
+
+\subsection{The birth of Seth: Gen 4:25-26}
+
+Adam and Eve have another son through whom their line continues.
+
+\section{Noah Gen 6-8}
+
+We fast forward several generations, and see the cumulative effect of sin.
+God sums it up:
+
+\begin{quotation}
+$^{5}$ The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually. $^{6}$ And the LORD regretted that he had made man on the earth, and it grieved him to his heart. $^{7}$ So the LORD said, ``I will blot out man whom I have created from the face of the land, man and animals and creeping things and birds of the heavens, for I am sorry that I have made them.'' $^{8}$ But Noah found favor in the eyes of the LORD. [Ge 6:5–8, ESV]).
+\end{quotation}
+
+We will see how Noah demonstrated his faith by believing God, following
+God's instruction, and trusting in God for salvation.
+
+\section{Noah's descendants Gen 9--11}
+
+Here we examine the charge to Noah's descendants [Gen 9:1--17] and the 
+rapid decline, culminating in God's intervention at Babel.
+
+\section{The call of Abram Gen 12--13}
+
+Here we meet Abram and look at his call by God [Gen 12:1-3]. We will
+consider how Christ is the fulfillment of the promise in Gen 12:3.
+We will look at Abram as a man with faith and fear -- such as the
+incidents with Sarah and Pharaoh. We will examine Abram's thought
+process in separating from Lot
+
+\section{Abram, Melchizedek, and the covenant Gen 14-15}
+
+Here we look at Abram's rescue of lot and victory over the 
+three kings. We will examine his interaction with Melchizedek
+-- as a type of Christ. We will consider God's response to
+Abram, establishing His covenant.
+
+\section{Abram and the long wait Gen 16-20}
+We follow Abram through ups and downs as he waits for God to
+fulfill His promise. We will see "downs" such as following
+Sarai's "quick fix" resulting in the birth of Ishmael.
+We will follow Abraham's faith following the name change and
+obedience to the covenant of circumcision, and believing God's
+promise regarding Isaac's birth. We will look at Abraham's view
+of God's character in is plea to spare Sodom. And we will see
+Abraham repeat old behavior with Abimelech and see how God intervenes.
+This section ends with the birth of Isaac.
+
+\section{Isaac and Ishmael Gen 21-22}
+Here we briefly examine the family dynamics, focusing most of our
+time on the sacrifice of Isaac.
+
+\section{Lessons from Jacob and Esau Gen 25-35}
+Note: If I need to cut a section, it will be this one.
+We will see family dynamics at their worst. We will see
+God deal with His people, despite their faults and
+again see why we need a Savior.
+
+
+\section{Joseph Gen 37-50}
+We will study the plan of God to feed His people during famine,
+starting with an immature youth whom He taught character the 
+hard way. We will consider Joseph's character development and
+desire to serve God despite great temptation and persecution.
+We will watch Joseph look at the situation through God's eyes
+as he forgives his brothers after seeing how God had planned
+and used all these events to save his people.
+
+
+
+% For bibtex...
+\bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
+\bibliography{./inc/theBib}
+
+\end{document}
