@@ -152,8 +152,13 @@ Sys.setenv(TEXINPUTS=str.wd)
 Sys.setenv(BIBINPUTS=str.wd)
 Sys.setenv(BSTINPUTS=str.wd)
 # make sure needed packages & functions are loaded
-
+library(xtable)
 # define any functions
+gen  <- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+name <- c("Adam", "Seth", "Enosh", "Kenan", "Mahalel", "Jared", "Enoch", "Methuselah", "Lamech", "Noah")
+span <- c(930, 912, 905, 910, 895, 962, 365, 969, 777, NA)
+
+data <- data.frame(gen=gen, name=name, span=span)
 
 @
 
@@ -452,20 +457,90 @@ Adam and Eve have another son through whom their line continues.
 
 \section{Noah Gen 6-8}
 
-We fast forward several generations, and see the cumulative effect of sin.
-God sums it up:
-
-\begin{quotation}
-$^{5}$ The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually. $^{6}$ And the LORD regretted that he had made man on the earth, and it grieved him to his heart. $^{7}$ So the LORD said, ``I will blot out man whom I have created from the face of the land, man and animals and creeping things and birds of the heavens, for I am sorry that I have made them.'' $^{8}$ But Noah found favor in the eyes of the LORD. [Ge 6:5–8, ESV]).
-\end{quotation}
+We fast forward several generations, and see the cumulative effect of sin
+and God's disgust with the situation
 
 We will see how Noah demonstrated his faith by believing God, following
 God's instruction, and trusting in God for salvation.
+
+
+<<echo=FALSE, results=tex>>=
+digits <- 0
+names(data) <- c("Generation", "Name", "Lifespan")
+print(xtable(data, caption = "Generations from Adam to Noah",
+             label = "tab:GenAdamNoah", digits=digits,
+             caption.placement = "top",
+             size = "small",
+             table.placement="ht"), include.rownames=FALSE)
+
+@
+
+The noteable exception is Enoch, whom the text notes that ``Enoch
+walked with God, and he was not, for God took him.'' (Ge 5:24, ESV),
+suggesting that he had intimate fellowship with God. The writer to
+the Hebrews provides the following interpretation
+
+\begin{quotation}
+$^{5}$By faith Enoch was taken up so that he should not see death,
+and he was not found, because God had taken him. Now before he was
+taken he was commended as having pleased God. [Heb 11:5, ESV].
+\end{quotation}
+
+Note that the decrease in lifespan from Methuselah to Lamech suggests
+that both perished in the Flood.
+
+The general spiritual state at this time can only be described as abysmal.
+God is livid.
+
+\begin{quotation}
+$^{5}$The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually. $^{6}$And the LORD regretted that he had made man on the earth, and it grieved him to his heart. $^{7}$So the LORD said, ``I will blot out man whom I have created from the face of the land, man and animals and creeping things and birds of the heavens, for I am sorry that I have made them.'' [Ge 6:5--7, ESV]).
+\end{quotation}
+
+This judgement is justified. We would not be here if God had not made
+one other statement:
+
+\begin{quotation}
+$^{8}$But Noah found favor (\emph{hen}, grace) in the eyes of the LORD. [Ge 6:8, ESV]
+\end{quotation}
+
+In Ge 6:9, God describes Noah's character in a thesis statement for
+this chapter
+
+\begin{quotation}
+$^{9}$\ldots Noah was a righteous man, blameless in his generation. Noah walked with God.[Ge 6:9, ESV]
+\end{quotation}
+
+\subsection{God's revelation to Noah}
+
+\begin{itemize}
+  \item God reveals His plan to flood the Earth and why (Gen 6:12-13)
+  \item God commands Noah to build a massive Ark (Gen 6:14-17)
+  \item God explains His covenant of deliverance (Gen 6:18-21)
+\end{itemize}
+
+God describes Noah's response succinctly here
+
+\begin{quotation}
+$^{22}$Noah did this; he did all that God commanded him. [Ge 6:22, ESV]
+\end{quotation}
+
+Note that the writer to the Hebrews helps us understand
+Noah's righteousness as shown below.
+
+\begin{quotation}
+$^{7}$By faith Noah, being warned by God concerning events as
+yet unseen, in reverent fear constructed an ark for the saving
+of his household. By this he condemned the world and became an
+heir of the righteousness that comes by faith. [Heb 11:7, ESV]
+\end{quotation}
 
 \section{Noah's descendants Gen 9--11}
 
 Here we examine the charge to Noah's descendants [Gen 9:1--17] and the 
 rapid decline, culminating in God's intervention at Babel.
+We note that Noah is the tenth generation from Adam. A table of 
+lifespans is given below.
+
 
 \section{The call of Abram Gen 12--13}
 
