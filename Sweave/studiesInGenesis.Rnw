@@ -408,7 +408,7 @@ We clearly see the noetic effect of sin on their character.
   being sure whether today would be the day?
 \end{itemize}
 
-\subsection{God shows grace}
+\subsection{God shows grace and mercy}
 \begin{itemize}
   \item Then they are driven from the garden to prevent them
   from being eternally in this state.
@@ -478,7 +478,7 @@ print(xtable(data, caption = "Generations from Adam to Noah",
 
 @
 
-The noteable exception is Enoch, whom the text notes that ``Enoch
+The notable exception is Enoch, whom the text notes that ``Enoch
 walked with God, and he was not, for God took him.'' (Ge 5:24, ESV),
 suggesting that he had intimate fellowship with God. The writer to
 the Hebrews provides the following interpretation
@@ -510,7 +510,7 @@ In Ge 6:9, God describes Noah's character in a thesis statement for
 this chapter
 
 \begin{quotation}
-$^{9}$\ldots Noah was a righteous man, blameless in his generation. Noah walked with God.[Ge 6:9, ESV]
+$^{9}$\ldots Noah was a righteous man, blameless in his generation. Noah walked with God. [Ge 6:9, ESV]
 \end{quotation}
 
 \subsection{God's revelation to Noah}
@@ -565,8 +565,8 @@ Some key points
   \item The command to multiply and subdue the earth -- as it's
   stewards (Gen 9:1-4)
   \item Establishes the death penalty for murder and expects
-  human government to adminsiter as His representative (Gen 9:5-6)
-  \item Provides the raindbow as a symbol of His covenant not to
+  human government to administer as His representative (Gen 9:5-6)
+  \item Provides the rainbow as a symbol of His covenant not to
   again destroy all life by flood (Gen 9:7-17) 
 \end{itemize}
 
@@ -585,7 +585,7 @@ with its top in the heavens, and let us make a name for ourselves,
 lest we be dispersed over the face of the whole earth.'' [Ge 11:4, ESV]
 \end{quotation}
 
-Note how this was problematic for several reaasons
+Note how this was problematic for several reasons
 
 \begin{itemize}
   \item They ignore God's command to fill and subdue the earth.
@@ -598,15 +598,63 @@ God intervenes to stop this epic fail.
 
 \section{The call of Abram Gen 12--13}
 
-Here we meet Abram and look at his call by God [Gen 12:1-3]. We will
-consider how Christ is the fulfillment of the promise in Gen 12:3.
-We will look at Abram as a man with faith and fear -- such as the
-incidents with Sarah and Pharaoh. We will examine Abram's thought
-process in separating from Lot
+\subsection{Three accounts of Abram's call}
+
+\begin{enumerate}
+  \item \textbf{Gen 12:1--3} ``$^{1}$Now the LORD said to Abram, `Go
+  from your country and your kindred and your father's house to the land
+  that I will show you. $^{2}$And I will make of you a great nation, and
+  I will bless you and make your name great, so that you will be a
+  blessing. $^{3}$I will bless those who bless you, and him who dishonors
+  you I will curse, and in you all the families of the earth shall be
+  blessed.' '' [ESV] Note that this is provided in the
+  context of Abram's genealogy. ESV translates with the verb ``said'' 
+  with a footnote ``had said'' at a point where Abram was in Haran.
+  \textbf{Christ is the fulfillment of the promise!}
+  \item \textbf{Gen 15:7} ``$^{7}$I am the LORD who brought
+  you out from Ur of the Chaldeans to give you this land to possess.''
+  [ESV]
+  \item \textbf{Acts 7:2--5} (Stephen's Sermon) ``\ldots $^{2}$The God
+  of glory appeared to our father Abraham when he was in Mesopotamia,
+  before he lived in Haran, $^{3}$and said to him, `Go out from your
+  land and from your kindred and go into the land that I will show you.'
+  $^{4}$Then he went out from the land of the Chaldeans and lived in
+  Haran. And after his father died, God removed him from there into this
+  land in which you are now living. $^{5}$Yet he gave him no inheritance
+  in it, not even a foot's length, but promised to give it to him as a
+  possession and to his offspring after him, though he had no child.
+  [ESV])
+\end{enumerate}
+
+We see that there were many barriers that caused Abram to delay
+in obeying God's call. Yet in the end, He did obey, for which
+the Apostle Paul tells us:
+  
+\begin{quotation}
+  $^{1}$What then shall we say was gained by Abraham, our forefather
+  according to the flesh? $^{2}$For if Abraham was justified by works,
+  he has something to boast about, but not before God. $^{3}$For what
+  does the Scripture say? ``Abraham believed God, and it was counted
+  to him as righteousness.'' [Ro 4:1–3 citing Gen 15:6, ESV].
+\end{quotation}
+
+\subsection{Fear and snares}
+\begin{itemize}
+  \item Family entanglements in Ur and Haran (Gen 11:28-12:4)
+  \item Deception of Pharaoh regarding relationship with Sarai
+  (Gen 12:10-20)
+  \item Strife with Lot over water/pasture (Gen 13:1-13 )
+\end{itemize}
+
+\subsection{Acts of faith}
+\begin{itemize}
+  \item Building an altar to the Lord after receiving the
+  theophany and promise in Gen 13:14-18
+\end{itemize}
 
 \section{Abram, Melchizedek, and the covenant Gen 14-15}
 
-Here we look at Abram's rescue of lot and victory over the 
+Here we look at Abram's rescue of Lot and victory over the 
 three kings. We will examine his interaction with Melchizedek
 -- as a type of Christ. We will consider God's response to
 Abram, establishing His covenant.
