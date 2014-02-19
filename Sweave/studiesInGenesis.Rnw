@@ -455,13 +455,16 @@ We clearly see the noetic effect of sin on their character.
 
 Adam and Eve have another son through whom their line continues.
 
-\section{Noah Gen 6-8}
+\section{Noah and his descendants Gen 6-11}
 
 We fast forward several generations, and see the cumulative effect of sin
 and God's disgust with the situation
 
 We will see how Noah demonstrated his faith by believing God, following
 God's instruction, and trusting in God for salvation.
+
+We note that Noah is the tenth generation from Adam. A table of 
+lifespans is given below.
 
 
 <<echo=FALSE, results=tex>>=
@@ -524,6 +527,26 @@ God describes Noah's response succinctly here
 $^{22}$Noah did this; he did all that God commanded him. [Ge 6:22, ESV]
 \end{quotation}
 
+\subsection{Noah's response after deliverance Gen 8:20-22}
+
+God gives us a glimpse into Noah's heart in his response to
+deliverance
+
+\begin{quotation}
+$^{20}$Then Noah built an altar to the LORD and took some of every
+clean animal and some of every clean bird and offered burnt offerings
+on the altar. $^{21}$And when the LORD smelled the pleasing aroma, the
+LORD said in his heart, ``I will never again curse the ground because
+of man, for the intention of man’s heart is evil from his youth.
+Neither will I ever again strike down every living creature as
+I have done. $^{22}$While the earth remains, seedtime and harvest,
+cold and heat, summer and winter, day and night, shall not cease.''
+[Ge 8:20--22, ESV]
+\end{quotation}
+
+God saw Noah's response in faith and made a covenant with him and
+his descendants -- in spite of man's sinful nature.
+
 Note that the writer to the Hebrews helps us understand
 Noah's righteousness as shown below.
 
@@ -534,12 +557,43 @@ of his household. By this he condemned the world and became an
 heir of the righteousness that comes by faith. [Heb 11:7, ESV]
 \end{quotation}
 
-\section{Noah's descendants Gen 9--11}
+\subsection{The charge to Noah and his descendants Gen 9:1-17}
 
-Here we examine the charge to Noah's descendants [Gen 9:1--17] and the 
-rapid decline, culminating in God's intervention at Babel.
-We note that Noah is the tenth generation from Adam. A table of 
-lifespans is given below.
+Some key points
+
+\begin{itemize}
+  \item The command to multiply and subdue the earth -- as it's
+  stewards (Gen 9:1-4)
+  \item Establishes the death penalty for murder and expects
+  human government to adminsiter as His representative (Gen 9:5-6)
+  \item Provides the raindbow as a symbol of His covenant not to
+  again destroy all life by flood (Gen 9:7-17) 
+\end{itemize}
+
+\subsection{The response of Noah and his descendants Gen 9:18-11:31}
+
+Here we see further examples of the noetic effects of sin and yet
+another downward spiral. The first recorded incident was the poor
+judgement of Noah's son Ham when Noah passed out after consuming
+too much wine (Gen 9:21-22). This caused significant family turmoil.
+
+The rapid decline continued, culminating in God's intervention at Babel.
+
+\begin{quotation}
+$^{4}$Then they said, ``Come, let us build ourselves a city and a tower
+with its top in the heavens, and let us make a name for ourselves,
+lest we be dispersed over the face of the whole earth.'' [Ge 11:4, ESV]
+\end{quotation}
+
+Note how this was problematic for several reaasons
+
+\begin{itemize}
+  \item They ignore God's command to fill and subdue the earth.
+  \item Their plan is for their glory, not God's
+  \item They have lost all sight of their job as God's stewards.
+\end{itemize}
+
+God intervenes to stop this epic fail.
 
 
 \section{The call of Abram Gen 12--13}
