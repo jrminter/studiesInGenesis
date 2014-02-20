@@ -652,12 +652,77 @@ the Apostle Paul tells us:
   theophany and promise in Gen 13:14-18
 \end{itemize}
 
-\section{Abram, Melchizedek, and the covenant Gen 14-15}
+\section{Abram, Melchizedek, and the covenant Gen 14--15}
 
-Here we look at Abram's rescue of Lot and victory over the 
-three kings. We will examine his interaction with Melchizedek
--- as a type of Christ. We will consider God's response to
-Abram, establishing His covenant.
+\subsection{Prelude: The rescue of Lot (Gen 14:1--16)}
+
+The region was filled with petty dictators who ruled over
+city-states. There were entangling alliances. Lot, his family,
+and their posessions were taken when Sodom was attacked by
+one such alliance. An escaped prisoner brings Abram the news.
+Abram leads a night time raid with 318 of his men, defeats the
+enemy, recovers the sacked wealth and Lot's family and posessions.
+
+\subsection{Encounter with the King of Sodom and Melchizedek (Gen 14:17--24)}
+
+Abram's military success earns him the respect of the King of Sodom.
+The King of Sodom comes out to meet Abram upon his return and is
+accompanied by Melchizedek, king of Salem, which the text descibes
+as ``priest of God Most High''. Melchizedek serves Abram bread and
+wine. Abram gives Melchizedek a tenth of the spoils. Abram realizes
+that this new-found wealth could cause people to charge that the King
+of Sodom, not God, had blessed Abram. To prevent this, Abram asks only
+for expenses for his men and for Lot and his family and posessions.
+
+\subsection{Commentary from Hebrews}
+\begin{quotation}
+$^{1}$For this Melchizedek, king of Salem, priest of the Most High God,
+met Abraham returning from the slaughter of the kings and blessed him,
+$^{2}$and to him Abraham apportioned a tenth part of everything. He is
+first, by translation of his name, king of righteousness, and then he
+is also king of Salem, that is, king of peace. $^{3}$He is without father
+or mother or genealogy, having neither beginning of days nor end of life,
+(i.e. a shadowy figure) but resembling the Son of God he continues a
+priest forever. $^{4}$See how great this man was to whom Abraham the
+patriarch gave a tenth of the spoils! $^{5}$And those descendants of
+Levi who receive the priestly office have a commandment in the law to
+take tithes from the people, that is, from their brothers, though
+these also are descended from Abraham. $^{6}$But this man who does not
+have his descent from them received tithes from Abraham and blessed
+him who had the promises. $^{7}$It is beyond dispute that the inferior
+is blessed by the superior. $^{8}$In the one case tithes are received
+by mortal men, but in the other case, by one of whom it is testified
+that he lives. $^{9}$One might even say that Levi himself, who
+receives tithes, paid tithes through Abraham, $^{10}$for he was still
+in the loins of his ancestor when Melchizedek met him. $^{11}$Now if
+perfection had been attainable through the Levitical priesthood (for
+under it the people received the law), what further need would there
+have been for another priest to arise after the order of Melchizedek,
+rather than one named after the order of Aaron? [Heb 7:1--11, ESV]
+\end{quotation}
+
+\subsection{God's response Gen 15}
+\begin{itemize}
+  \item God responds to Abram's faith in a vision ``Fear not, Abram,
+  I am your shield; your reward shall be very great.'' [Ge 15:1, ESV]
+  \item Abram is honest with God concerning his lack of a son:
+  ``$^{2}$O Lord GOD, what will you give me, for I continue childless,
+  and the heir of my house is Eliezer of Damascus?'' $^{3}$And Abram
+  said, ``Behold, you have given me no offspring, and a member of
+  my household will be my heir.'' [Ge 15:2--3, ESV]
+  \item God answers with a promise: $^{4}$\ldots ``This man shall
+  not be your heir; your very own son shall be your heir.''
+  $^{5}$And he brought him outside and said, ``Look toward heaven, and
+  number the stars, if you are able to number them.'' Then he said
+  to him, ``So shall your offspring be.'' [Ge 15:4--5, ESV]
+  \item Abram's response was a favorite of the Apostle Paul:
+  ``$^{6}$And he believed the LORD, and he counted it to him as
+  righteousness.'' [Ge 15:6, ESV]
+  \item God establishes a covenant with Abram while Abram is 
+  paralyzed, indicating that God would do all the work. The symbolism
+  is that God staked His reputation on His willingness and ability
+  to deliver (Gen 15:7--20).
+\end{itemize}
 
 \section{Abram and the long wait Gen 16-20}
 We follow Abram through ups and downs as he waits for God to
