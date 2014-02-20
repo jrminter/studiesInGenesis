@@ -791,10 +791,103 @@ men could be found.
 
 \subsection{God rescues Lot and his daughters from Sodom Gen 19}
 
+This is well known to us. The point we should consider is Lot's
+acceptance of sin as ``normal''. Perhaps we should ask ourselves
+of we are a bit too comfortable with sin or do we see it as God
+does - depravity that leads to eternal death unless atoned for
+by the blood of Christ.
+
+\subsection{Dealing with Abimilech Gen 20}
+We note that Abraham pulls the same subterfuge with Abimilech
+as he did with Pharoah - presenting Sarah as his sister, not 
+his wife. The interesting difference here is God's intercession
+for Abimilelch
+
+\begin{quotation}
+  $^{3}$But God came to Abimelech in a dream by night and said to him,
+  ``Behold, you are a dead man because of the woman whom you have taken,
+  for she is a man’s wife.'' $^{4}$Now Abimelech had not approached her.
+  So he said, ``Lord, will you kill an innocent people? $^{5}$Did he not
+  himself say to me, `She is my sister'? And she herself said, `He is my
+  brother.' In the integrity of my heart and the innocence of my hands
+  I have done this.'' $^{6}$Then God said to him in the dream, ``Yes, I
+  know that you have done this in the integrity of your heart, and it
+  was I who kept you from sinning against me. Therefore I did not let
+  you touch her. $^{7}$Now then, return the man’s wife, for he is a
+  prophet, so that he will pray for you, and you shall live. But if
+  you do not return her, know that you shall surely die, you and all
+  who are yours.'' [Ge 20:3--7, ESV]
+\end{quotation}
+
+God's dealing with all parties here reminds me of
+Psalm 103
+\begin{quotation}
+  $^{6}$The LORD works righteousness and justice for all who are oppressed. 
+  $^{7}$He made known his ways to Moses, his acts to the people of Israel. 
+  $^{8}$The LORD is merciful and gracious, slow to anger and abounding
+  in steadfast love. 
+  $^{9}$He will not always chide, nor will he keep his anger forever. 
+  $^{10}$He does not deal with us according to our sins, nor repay us
+  according to our iniquities. 
+  $^{11}$For as high as the heavens are above the earth, 
+  so great is his steadfast love toward those who fear him; 
+  $^{12}$as far as the east is from the west, 
+  so far does he remove our transgressions from us. 
+  $^{13}$As a father shows compassion to his children, 
+  so the LORD shows compassion to those who fear him. 
+  $^{14}$For he knows our frame; he remembers that we are dust. 
+  [Ps 103:6--14, ESV]
+\end{quotation}
 
 \section{Isaac and Ishmael Gen 21-22}
 Here we briefly examine the family dynamics, focusing most of our
 time on the sacrifice of Isaac.
+
+\subsection{The birth of Isaac Gen 21:1-7}
+God fulfils his promise at the specified time\ldots
+
+\subsection{Family Feud Gen 21:8--21}
+Jealousy erupts again when Sarah sees Ishmael laughing (Gen 21:9). She
+asks Abraham to banish Hagar and Ishmael (Gen 21:10) Abraham is displeased
+(Gen 21:11) but God instructs Abraham to do so because Isaac is the son
+of the covenant (Gen 21:12). God says he will make a nation out of
+Ishmael as well (Gen 21:13), so Abraham banishes Hagar and Ishmael
+(Gen 21:14.) God makes certain they are cared for (Gen 21:15-21)
+
+\subsection{Abraham deals righteously with Abimelech Gen 21:22-34}
+Abimilech realizes that Abraham is blessed by God (Gen 21:22). The
+two men make a covenant to deal kindly with one another (Gen 21:23--24).
+They handle a disput well (Gen 21:25--32). Abraham continues to worship
+the Lord (Gen 21:33-34)
+
+\subsection{The sacrifice of Isaac Gen 22}
+
+\begin{itemize}
+  \item The section is framed as a test (Gen 22:1)
+  \item God asks the unthinkable - to sacrifice the child of
+  promise (Gen 22:2)
+  \item Abraham obeys immediately (Gen 22:3--5)
+  \item Isaac carries the wood, Abraham the knife (Gen 22:6)
+  \item Isaac questions Abraham about the lack of a sacrifice,
+  Abraham responds, ``God will provide for himself the lamb for
+  a burnt offering, my son.'' [Ge 22:8]
+  \item Abraham prepares to obey and is stayed by an angel, noting
+  a ram in the thicket, which Abraham sacrifices (Gen 22:13--14)
+  \item Abraham names the place ``The Lord will see/provide
+  (\emph{ra ah})''
+  \item God commends Abraham for his faith and trust (Gen 22:15--18)
+\end{itemize}
+
+\subsection{Commentary from Heb 11}
+
+\begin{quotation}
+$^{17}$By faith Abraham, when he was tested, offered up Isaac, and
+he who had received the promises was in the act of offering up his
+only son, $^{18}$of whom it was said, ``Through Isaac shall your
+offspring be named.'' $^{19}$He considered that God was able even
+to raise him from the dead, from which, figuratively speaking, he
+did receive him back. [Heb 11:17--19, ESV]
+\end{quotation}
 
 \section{Lessons from Jacob and Esau Gen 25-35}
 Note: If I need to cut a section, it will be this one.
