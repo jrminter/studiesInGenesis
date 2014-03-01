@@ -1,17 +1,16 @@
-% =========================== wk01Notes.Rnw ==========================
+% ============================ wk01Notes.Rnw ===========================
 % 3456789012345678901234567890123456789012345678901234567890123456789012
-\documentclass[11pt,paper=letter,parskip=half,DIV=18,oneside,headinclude,footinclude=false,bibliography=totoc]{scrartcl}
+\documentclass[12pt]{article}
+
 \usepackage[utf8]{inputenc}
-\input{../Sweave/inc/jrm-koma-macros}
+\input{./inc/jrm-iPad-macros.tex}
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
-\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ \\ Week 1 Notes} 
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 1 Notes} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
 \newcommand{\theDate}{March 2, 2014}
-
-\pdfcompresslevel=9
 
 % automatic hyperlinks in document
 \usepackage[pagebackref=true]{hyperref}
@@ -19,11 +18,11 @@
 {
 colorlinks=true,
 % linkcolor=DarkerRed,
-linkcolor=threadlessFour,
+linkcolor=blue,
 % citecolor=DarkGreen,
-citecolor=threadlessFour,
+citecolor=blue,
 % citecolor=threadlessTwo,
-urlcolor=NavyBlue,
+urlcolor=blue,
 % urlcolor=threadlessFour,
 bookmarksnumbered=true,
 bookmarksopen=false,
@@ -41,7 +40,6 @@ pdfkeywords={\theKeywords}
 
 \begin{document}
 \SweaveOpts{concordance=TRUE}
-
 %
 % Set up Sweave...
 %
@@ -60,23 +58,18 @@ Sys.setenv(BSTINPUTS=str.wd)
 require(xtable)
 @
 
+% use a custom title
 \begin{center}
-\LARGE{\textbf{\textcolor{DispositionColor}{\theTitle}}}
+  \Large{\textbf{\textcolor{red}{\theTitle}}} \\
+  \large{\theDate}
 \end{center}
-
-\large{
-\begin{tabular}{r l}
-\textbf{Author:}                  & \theAuthor  \\
-\textbf{Date:}                    & \theDate \\
-\end{tabular}
-}
 
 \section{Introduction}
 
 \subsection{Why this approach to Genesis?}
 \begin{itemize}
   \item As I developed the outline for our series on Romans, I noted
-	how Paul had placed a thesis statement early in the book, and then
+  how Paul had placed a thesis statement early in the book, and then
 	built an argument around it. I wondered if God might have done this
 	for the Scriptures with Genesis, so began a study.
 	\item I found some explicit statements from Christ that this was the
@@ -95,7 +88,6 @@ when we note that Christ and the New Testament authors have done this
 under the control of the Spirit of God, we can be confident of their
 conclusions. A wise friend summarized this with the statement,
 ``Scripture interprets Scripture.''
-
 
 \subsection{Jesus's statements} 
 
@@ -225,7 +217,7 @@ In the remainder of Gen 1, Moses records God's account of His act of
 creation. We must let the text guide us to interpret the message that
 God is trying to communicate. Let us pose the question,
 
-\textcolor{threadlessFive}{What conclusions would God have us draw 
+\textcolor{red}{What conclusions would God have us draw 
 regarding His work of creation from this section?}
 
 Remember, God expects Adam, Job, the apostle Paul, and you and me
