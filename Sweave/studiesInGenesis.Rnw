@@ -722,6 +722,8 @@ rather than one named after the order of Aaron? [Heb 7:1--11, ESV]
   paralyzed, indicating that God would do all the work. The symbolism
   is that God staked His reputation on His willingness and ability
   to deliver (Gen 15:7--20).
+  \item God tells Abram of His certain plan for Israel to serve 400 years
+  in bondage in Egypt (Gen 15:13).
 \end{itemize}
 
 \section{Abram and the long wait Gen 16-20}
@@ -895,16 +897,105 @@ We will see family dynamics at their worst. We will see
 God deal with His people, despite their faults and
 again see why we need a Savior.
 
+\subsection{The death of Abraham Gen 25:1--18}
+After Sarah's death, Abraham married Keturah and had six
+other sons. Because Issac was to inherit all of Abraham's
+wealth, Abraham gave gifts to his other sons while he was
+living and sent them away from Isaac, to the east. (Gen 25:6)
+
+Abraham died at age 175 and was buried by Isaac and Ishmael in
+the cave of Machpelah, land Abraham had previously pruchased
+from the Hittites. The scriptures do not report further contact
+or strife between Isaac and his brothers.
+
+\subsection{Isaac's family Gen 25:19--28}
+
+Issac's family was what we would call dysfunctional. First, we see the
+birth of twins, Jacob and Esau. For His own purposes (Rom 9:10--12),
+God decreed that the younger (Jacob) would serve the older (Esau), 
+reversing the cultural norm. The two sons had very different personalities,
+Esau was a hunter, frequently bringing his father game. Jacob was more
+of a homebody. Isaac made it clear that Esau was his favorite, while
+Rebekah made it clear that Jacob was hers (Gen 25:28). This would not
+end well.
+
+\subsection{Esau sells his birthright Gen 25:29--31}
+
+Returning exhausted from hunting, Esau finds Jacob cooking some stew.
+Esau asks for some, Jacob offers to trade stew for Esau's birth right.
+The text concludes that Esau despised his birthright. It leaves us to
+conclude on our own that Jacob thought God could use a bit of help in
+fulfilling his prophesy.
+
+\subsection{Deception at Isaac's death Gen 27}
+Near death, Isaac calls his favorite son Esau and asks him to prepare
+stew and then receive Isaac's final blessing. Rebekah overhears, calls
+Jacob, helps him prepare stew and disguises him to make him look more
+like Esau and sends him to be blessed. Rebekah seems to think God need
+help in fulfilling his prophesy too. Jacob gets the blessing, but Esau
+finds out and is furious, as expected, noting that Jacob is a deceiver
+by nature. Esau contemplates murder, so Rebekah convinces Isaac to send
+to his uncle Laban, after extracting a promise not to marry a Hittite
+woman. Esau, discovers that marrying a Cananaite would displease his
+father and mother, so he does just that.
+
+The lesson here is that God is fully capable of carrying out His will
+without our help. He still loves His people - in spite of our character
+flaws, but he does not remove the consequences of our bone headed plans.
 
 \section{Joseph Gen 37-50}
-We will study the plan of God to feed His people during famine,
-starting with an immature youth whom He taught character the 
-hard way. We will consider Joseph's character development and
-desire to serve God despite great temptation and persecution.
-We will watch Joseph look at the situation through God's eyes
-as he forgives his brothers after seeing how God had planned
-and used all these events to save his people.
+The life of Joseph is an example where God's purpose is worked out though
+some terrible circumstances. God uses these to mold Joseph's character
+and save His people from famine, a plan God had revealed to Abram in
+Gen 15:13.
 
+\subsection{Joseph's youth: Gen 37:1-11}
+
+\begin{itemize}
+  \item We first encounter Joseph at age 17, tending his father's 
+  flock with his brothers and bring a bad report (tattletale) [Gen 37:2]
+  \item We discover that Jacob loved Joseph more than his other sons
+  since he was the son of his old age, and showed it with the
+  gift of a many-colored coat. As a result, Joseph's brothers
+  detested him [Gen 37:3--4]. Wouldn't you think Jacob would have learned
+  from his own school of hard knocks that such favoritism doesn't end
+  well\ldots.
+  \item Joseph has dreams of His rise to greatness and unwisely shares
+  them with his brothers [Gen 37:5-11]
+\end{itemize}
+
+\subsection{The plot against Joseph Gen 37:12-36}
+\begin{itemize}
+  \item Jacob sends Joseph to his brothers near Shechem and to bring
+  him word. (Gen 37:12--14) Is Jacob really this clueless???
+  \item The brothers see him from afar and conspire to kill him.
+  (Gen 37:18--20)
+  \item Reuben shows a concience and wants to spare Joseph's life,
+  but instead toss him into a pit, hoping to rescue him
+  later(Gen 37:21--22)
+  \item They do this and stop to eat, where the notice a passing
+  caravan (providence is remarkable\ldots) (Gen 37:23--25)
+  \item Judah has the bright idea to sell him into slavery and
+  make a profit, and they do -- aparently without Reuben's
+  knowledge. (Gen 37: 26--28)
+  \item Reuben returns later and finds Joseph gone, so the other
+  brothers continue the ruse, slaughter a goat and tear Joseph's
+  robe and stain it with blood, taking it to Jacob asking him to
+  identify it (nice sons). Jacob draws the expected conclusion and
+  is distraught. (Gen 37:29--36)
+  \item The Midianites sell Joseph in Egypt to Potiphar, the captain
+  of Pharoah's guard.
+\end{itemize}
+
+\subsection{Joseph and Potiphar's wife Gen 39}
+
+\subsection{Joseph in prison Gen 40}
+
+\subsection{Joseph intepret's Pharoah's dream Gen 41}
+
+\subsection{Joseph and his family Gen 41}
+
+\subsection{Joseph after his father's death Gen 50}
 
 
 % For bibtex...

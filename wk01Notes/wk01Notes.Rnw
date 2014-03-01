@@ -1,0 +1,317 @@
+% =========================== wk01Notes.Rnw ==========================
+% 3456789012345678901234567890123456789012345678901234567890123456789012
+\documentclass[11pt,paper=letter,parskip=half,DIV=18,oneside,headinclude,footinclude=false,bibliography=totoc]{scrartcl}
+\usepackage[utf8]{inputenc}
+\input{../Sweave/inc/jrm-koma-macros}
+
+%% general metadata:
+\newcommand{\theAuthor}{John Minter}
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ \\ Week 1 Notes} 
+\newcommand{\theSubject}{Genesis} 
+\newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
+\newcommand{\theDate}{March 2, 2014}
+
+\pdfcompresslevel=9
+
+% automatic hyperlinks in document
+\usepackage[pagebackref=true]{hyperref}
+\hypersetup
+{
+colorlinks=true,
+% linkcolor=DarkerRed,
+linkcolor=threadlessFour,
+% citecolor=DarkGreen,
+citecolor=threadlessFour,
+% citecolor=threadlessTwo,
+urlcolor=NavyBlue,
+% urlcolor=threadlessFour,
+bookmarksnumbered=true,
+bookmarksopen=false,
+bookmarksopenlevel=1,
+pdfpagemode={UseOutlines},
+pdfpagelayout={SinglePage},
+pdfview=Fit,
+pdfstartview=Fit,
+pdfauthor={\theAuthor},
+pdfsubject={\theSubject},
+pdftitle={\theTitle},
+pdfkeywords={\theKeywords}
+}
+%
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+%
+% Set up Sweave...
+%
+<<echo=F,results=hide>>=
+# A hidden code chunk
+# start with a clean environment
+rm(list=ls())
+options(digits=4, width=65, continue=" ")
+# be sure to set as needed
+str.wd <- '~/work/proj/studiesInGenesis/wk01Notes/'
+setwd(str.wd)
+Sys.setenv(TEXINPUTS=str.wd)
+Sys.setenv(BIBINPUTS=str.wd)
+Sys.setenv(BSTINPUTS=str.wd)
+# make sure needed packages & functions are loaded
+require(xtable)
+@
+
+\begin{center}
+\LARGE{\textbf{\textcolor{DispositionColor}{\theTitle}}}
+\end{center}
+
+\large{
+\begin{tabular}{r l}
+\textbf{Author:}                  & \theAuthor  \\
+\textbf{Date:}                    & \theDate \\
+\end{tabular}
+}
+
+\section{Introduction}
+
+\subsection{Why this approach to Genesis?}
+\begin{itemize}
+  \item As I developed the outline for our series on Romans, I noted
+	how Paul had placed a thesis statement early in the book, and then
+	built an argument around it. I wondered if God might have done this
+	for the Scriptures with Genesis, so began a study.
+	\item I found some explicit statements from Christ that this was the
+	case.
+	\item As we will see during the quarter, there are many times the
+	authors of the New Testament develop themes from Genesis.
+	\item A verse by verse study of Genesis would probably take 2 years.
+	We can visit key themes in one quarter.
+\end{itemize}
+
+\subsection{A word of caution}
+We should always be watchful of pushing our ideas on the Scriptures.
+This is called \emph{eisegesis} - reading into the text, instead of
+\emph{exegesis} - getting our ideas \textbf{from} the text. However,
+when we note that Christ and the New Testament authors have done this
+under the control of the Spirit of God, we can be confident of their
+conclusions. A wise friend summarized this with the statement,
+``Scripture interprets Scripture.''
+
+
+\subsection{Jesus's statements} 
+
+\subsubsection{John 5:39--40}
+Jesus rebuked unbelieving Jews concerning their handling
+of the Scriptures, noting that they missed the point entirely.
+
+\begin{quotation}
+$^{39}$You search the Scriptures because you think that in them you have
+eternal life; and it is they that bear witness about me, $^{40}$yet you
+refuse to come to me that you may have life. [Jn 5:39--40, ESV]
+\end{quotation}
+
+Note that Christ explicitly states that the Scriptures will point to
+Him. We will see that this is true in Genesis.
+
+
+\subsubsection{Lk 24:25--27}
+
+On the Road to Emmaus, the risen Christ lovingly admonished the grieving
+disciples, explaining the Scriptures to them.
+
+\begin{quotation}
+$^{25}$And he said to them, ``O foolish ones, and slow of heart to
+believe all that the prophets have spoken! $^{26}$Was it not necessary
+that the Christ should suffer these things and enter into his glory?''
+$^{27}$And beginning with Moses and all the Prophets, he interpreted
+to them in all the Scriptures the things concerning himself. [Lk 24:25--27, ESV]
+\end{quotation}
+
+How we yearn to have been a ``fly on the wall'' of the best Bible study
+in human history!
+
+
+\subsection{Our plan}
+
+Our objective for this quarter is to study several extended
+passages in Genesis and see how God foretold Christ through
+examples and types. Like we saw in Romans 1, effective authors
+put forward their thesis early and develop the supporting structure
+in subsequent chapters. Over the next quarter we will look through Genesis
+for evidence of God's thesis concerning the work and ministry of Christ.
+A recurring theme will be man's continued failure to consistently follow
+God and the need for Christ for any hope. This will become evident when
+we look at the character of the patriarchs and God's work in their lives.
+
+
+\section{Creation Gen 1--2}
+
+\subsection{Gen 1:1 - God's thesis statement for these chapters}
+Moses present's God's thesis statement for Gen 1--2 in Gen 1:1.
+Some have posited a ``gap'' between Gen 1:1 and Gen 1:2, but I think
+seeing Gen 1:1 as a thesis that is developed in Gen 1:2-2:25 better
+explains the text.
+
+God claims here (and many other places) to have created all of what we
+call ``creation.'' God will explain through Moses the order, but
+here we see the central claim: There is a critical distinction
+between God and everything else. As created beings, the only way
+you and I can know truth and interpret our observations is to
+``think God's thoughts after him,'' scrutinizing our every thought
+under the lens of His Word.
+
+This is a good time to consider the parallel passages in Col 1 and
+Heb 1.
+
+\subsubsection{Col 1:15--20}
+
+
+\begin{quotation}
+$^{15}$He is the image of the invisible God, the firstborn of all
+creation. $^{16}$For by him all things were created, in heaven and
+on earth, visible and invisible, whether thrones or dominions or
+rulers or authorities--all things were created through him and for
+him. $^{17}$And he is before all things, and in him all things hold
+together. $^{18}$And he is the head of the body, the church. He is
+the beginning, the firstborn from the dead, that in everything he
+might be preeminent. $^{19}$For in him all the fullness of God was
+pleased to dwell, $^{20}$and through him to reconcile to himself all
+things, whether on earth or in heaven, making peace by the blood of
+his cross. [Col 1:15--20, ESV].
+\end{quotation}
+
+\subsubsection{Heb 1:1--4}
+
+\begin{quotation}
+$^{1}$Long ago, at many times and in many ways, God spoke
+to our fathers by the prophets, $^{2}$but in these last days
+he has spoken to us by his Son, whom he appointed the heir of
+all things, through whom also he created the world. $^{3}$He is
+the radiance of the glory of God and the exact imprint of his
+nature, and he upholds the universe by the word of his power.
+After making purification for sins, he sat down at the right
+hand of the Majesty on high, $^{4}$having become as much
+superior to angels as the name he has inherited is more
+excellent than theirs. [Heb 1:1--4, ESV].
+\end{quotation}
+
+Here we see that Christ, God the Son, was the focal point of creation,
+and is the ``glue'' that holds it all together. We also see creation
+presented as a miraculous work of God to provide the stage for another
+miraculous work -- the work of redemption by Christ.
+
+As a Christian who earns a living `doing science', I have hope
+of finding answers because Christ created a universe that works
+according to His will and order.
+
+I would note that most of modern science \textbf{begins with a presupposition
+that rejects God} and therefore cannot know truth. As Paul writes in Rom 1,
+they exchanged the truth for a lie and worship the creation rather than the
+creator.
+
+They will not accept evidence to the contrary. Unless Christ extends them
+grace and opens their eyes, they
+are doomed - for all their cosmology, and expensive instruments,
+they are incapable of performing
+the required experiment: going back, reproducing the process, and
+invalidating their hypothesis\footnote{The naturalist philosopher of science,
+Karl Popper, correctly noted that a scientist cannot ``prove'' a hypothesis,
+but can only find results that appears to invalidates it.}. Nor do they 
+want to - because that would mean they would have to honor and worship
+God.
+
+\section{Gen 1:2--31: The six days of creation}
+
+In the remainder of Gen 1, Moses records God's account of His act of
+creation. We must let the text guide us to interpret the message that
+God is trying to communicate. Let us pose the question,
+
+\textcolor{threadlessFive}{What conclusions would God have us draw 
+regarding His work of creation from this section?}
+
+Remember, God expects Adam, Job, the apostle Paul, and you and me
+to understand this. 
+
+To obtain a correct answer, we need to look at where God begins,
+the structure that He uses to communicate His message,
+and His final conclusions.
+
+\begin{enumerate}
+\item In Gen 1:2, God begins his description after his \emph{ex nihilo}
+creation of the universe and directs us to the earth's nascent state --
+formless or barren (\emph{tohu}) and void or disordered (\emph{bohu}).
+\item He then describes His imposition of order in six time periods --
+each described as a ``day'' (\emph{yom}). It is important to make two
+important notes here:
+\begin{itemize}
+\item Swanson's Dictionary of Biblical Languages, Hebrew Old Testament\cite{Swanson2001a} lists 28 nuanced use cases for the term \emph{yom}.
+As expected, the most common is for a single solar day. All describe some
+type of fixed time period, but the duration varies.
+\item In Gen 1, God's work completing the solar and lunar cycles is not
+completed until the the fourth \emph{yom}.
+\end{itemize}
+\item As we examine God's description of His actions on each \emph{yom},
+we observe His orderly, planned, sovereign work of creation, viewed from
+His frame of reference and with His evaluation of His work at each step
+-- He spoke (declared His will), brought it to fruition (sovereign work),
+and declared it ``good'' (pronounced judgement.)
+\end{enumerate}
+
+\subsubsection{Some conclusions we may draw with confidence}
+\begin{itemize}
+\item God has given us a completely trustworthy description of His work
+of creation, teaching us about His attributes in this description.
+\item The account is inconsistent with modern scientific cosmology
+because the proponents reject the creator by presupposition and present
+a model that cannot answer the critical question of origin - where did
+whatever went ``Big Bang'' come from? Neither can they go back and repeat
+the experiment and test their model. They take their conclusions on faith
+as we do ours.
+\item Everything in creation functions according to His will and plan.
+We have physics, chemistry, geology, and mathematics because He created
+them. I would note that His work is setting the stars (and planets) in
+place (Ps 8:3) would involve significant expansion (time is not constant
+as it is under our Newtonian view of physics) could explain some observations
+that arise in the old/young earth debate.
+\end{itemize}
+
+\subsubsection{Job Job 38:1--7 \ldots\ 40:3--5: Man's inability to discuss the details of creation}
+
+In God's answer to Job, we see that God's first appeal is to His work of
+creation as evidence of His power and deity and notes man's complete
+inability to engage Him in an intelligent discussion of the details.
+Note that God uses sarcasm quite effectively here -- and Job got the
+point.
+
+\begin{quotation}
+$^{1}$Then the LORD answered Job out of the whirlwind and said: 
+$^{2}$``Who is this that darkens counsel by words without knowledge? 
+$^{3}$Dress for action like a man; I will question you, and you
+make it known to me. 
+$^{4}$Where were you when I laid the foundation of the earth? 
+Tell me, if you have understanding. 
+$^{5}$Who determined its measurements--surely you know! 
+Or who stretched the line upon it? 
+$^{6}$On what were its bases sunk, or who laid its cornerstone, 
+$^{7}$when the morning stars sang together and all the sons of
+God shouted for joy?\ldots'' [Job 38:1--7, ESV]).
+\end{quotation}
+
+Despite all our learning, not much has changed. Only a fool would
+offer a response different than that of Job
+
+\begin{quotation}
+$^{3}$Then Job answered the LORD and said: 
+$^{4}$``Behold, I am of small account; what shall I answer you? 
+I lay my hand on my mouth. 
+$^{5}$I have spoken once, and I will not answer; 
+twice, but I will proceed no further.'' 
+[Job 40:3--5, ESV]
+\end{quotation}
+
+
+% For bibtex...
+\bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
+\bibliography{../Sweave/inc/theBib}
+
+
+\end{document}
