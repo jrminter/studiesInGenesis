@@ -88,6 +88,118 @@ for common elements, to help us answer the question:
 What conclusions is God trying to get us to draw from this account?
 \end{quotation}
 
+\section{Examining the days of creation}
+\subsection{Common elements on each day}
+\red{Q:} What \red{parallel} statements do you see on multiple days? \red{A:}
+\begin{itemize}
+  \item God \red{said}\ldots -- Expressed His will.
+  \item God \red{did}\ldots -- Sovereignly accomplished His will.
+  \item God \red{called} (named)\ldots -- Identified something for us.
+  \item God created plants/animals \red{according to their kind} --
+  Identified distinct species boundaries.
+  \item God \red{saw} it was good (judged) -- Judged His work.
+\end{itemize}
+
+\red{Q:} What \red{common} conclusions do you think God would have human
+audiences from every time period from Moses to now draw?
+
+The Apostle Paul's answer
+\begin{quotation}
+$^{19}$For what can be known about God is plain to them, because God
+has shown it to them. $^{20}$For his invisible attributes, namely, his
+eternal power and divine nature, have been clearly perceived, ever since
+the creation of the world, in the things that have been made. So they are
+without excuse. [Ro 1:19--20, ESV]
+\end{quotation}
+
+\red{Q:} In each of these accounts, from whose perspective (or frame of
+reference) is this described? Can you think of any reasons why this might
+be of interest to a modern physicist, geologist, or chemist? Would Moses
+care?
+
+\red{Q:} Each time period is described as a \foreign{yom}. On which day
+were the solar and lunar periods where we descibe a day established?
+Can you think of any reason this might be important to modern physicist,
+geologist, or chemist? Would Moses care?
+
+\subsection{Some conclusions we may draw with confidence}
+\begin{itemize}
+\item God has given us a completely trustworthy description of His work
+of creation, teaching us about His attributes in this description.
+\item God's account is inconsistent with modern scientific cosmology
+because the proponents reject the creator by presupposition.
+\item Everything in creation functions according to God's will and plan.
+We have physics, chemistry, geology, and mathematics because He created
+them. I would note that His work in setting the stars (and planets) in
+place (Ps 8:3) would involve significant expansion (time is not constant
+as it is under the Newtonian view of physics.) This could help explain
+some modern experiments observations that arise in the old/young earth
+debate.
+\end{itemize}
+
+\subsection{Job 38--40: Man's inability to discuss the details of creation}
+
+In God's answer to Job, we see that God's first appeal is to His work of
+creation as evidence of His power and deity and notes man's complete
+inability to engage Him in an intelligent discussion of the details.
+Note that God uses sarcasm quite effectively here -- and Job got the
+point.
+
+\begin{quotation}
+$^{1}$Then the LORD answered Job out of the whirlwind and said: 
+$^{2}$``Who is this that darkens counsel by words without knowledge? 
+$^{3}$Dress for action like a man; I will question you, and you
+make it known to me. 
+$^{4}$Where were you when I laid the foundation of the earth? 
+Tell me, if you have understanding. 
+$^{5}$Who determined its measurements--surely you know! 
+Or who stretched the line upon it? 
+$^{6}$On what were its bases sunk, or who laid its cornerstone, 
+$^{7}$when the morning stars sang together and all the sons of
+God shouted for joy?\ldots'' [Job 38:1--7, ESV]).
+\end{quotation}
+
+Despite all our learning, not much has changed. Only a fool would
+offer a response different than that of Job. Steven Hawking would
+not fare much better\ldots
+
+\begin{quotation}
+$^{3}$Then Job answered the LORD and said: 
+$^{4}$``Behold, I am of small account; what shall I answer you? 
+I lay my hand on my mouth. 
+$^{5}$I have spoken once, and I will not answer; 
+twice, but I will proceed no further.'' 
+[Job 40:3--5, ESV]
+\end{quotation}
+
+\subsection{Gen 2: God's plan and provision for man}
+
+In Genesis 2, God tells us that when His work of creation was done,
+He set the example for us by resting from His work. The subject turns
+to His plan for His image-bearer -- man.
+
+\red{Q:} In Gen 2, what did you see that God provided for
+man?
+
+\begin{enumerate}
+\item God provides \red{completely} for man's physical needs -- creating
+a wonderful garden habitat (Gen 2:1-14)
+\item God provides a \red{noble purpose} for man -- a job as steward to
+oversee the garden (Gen 2:15)
+\item God provides \red{one command} for man: to not eat from one specific
+tree -- with clear consequences for violation: death. This gives the
+man a choice (Gen 2:16-17)
+\item God provides the man \red{a woman} for companionship and institutes
+marriage (much to the chagrin of the US Federal Courts\ldots) (Gen 2:18-24)
+\item The chapter ends with the man and the woman naked and unashamed--
+\red{innocent} (Gen 2:25)
+\end{enumerate}
+
+\section{Homework}
+Please read Gen 3 and 4, considering the change from Ch 2.
+
+
+
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")

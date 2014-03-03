@@ -10,7 +10,10 @@
 \usepackage{amsmath}
 \usepackage[pdftex]{graphicx}
 \usepackage[usenames, dvipsnames]{xcolor}
-\usepackage{titlesec}
+\usepackage[compact]{titlesec}
+\titlespacing{\section}{0pt}{0.5ex}{0ex}
+\titlespacing{\subsection}{0pt}{0.5ex}{0ex}
+\titlespacing{\subsubsection}{0pt}{0.5ex}{0ex}
 \usepackage{microtype}
 \usepackage{etaremune}
 \usepackage{caption}
@@ -38,6 +41,8 @@
 \def \til
 	{\~{}}				% ~ in text
 
+% two red commands
+\newcommand{\red}[1]{\textcolor{red}{#1}}
 \newcommand{\foreign}[1]{\emph{\textcolor{red}{#1}}}
 % Logical styles
 % 1 - computer code
@@ -63,16 +68,17 @@
 \renewcommand*{\familydefault}{\sfdefault}
 
 \titleformat{\section}
-{\color{red}\normalfont\Large\bfseries\sffamily}
+{\color{red}\normalfont\large\bfseries\sffamily}
 {\color{red}\thesection}{1em}{}
 
 \titleformat{\subsection}
-{\color{red}\normalfont\large\bfseries\sffamily}
+{\color{red}\normalfont\normalsize\bfseries\sffamily}
 {\color{red}\thesubsection}{1em}{}
 
 \titleformat{\subsubsection}
 {\color{red}\normalfont\normalsize\bfseries\sffamily}
 {\color{red}\thesubsubsection}{1em}{}
+
 
 
 \endinput

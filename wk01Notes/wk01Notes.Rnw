@@ -89,7 +89,6 @@ under the control of the Spirit of God, we can be confident of their
 conclusions. A wise friend summarized this with the statement,
 ``Scripture interprets Scripture.''
 
-\pagebreak
 \subsection{Jesus's statements} 
 
 \subsubsection{John 5:39--40}
@@ -249,57 +248,11 @@ His frame of reference and with His evaluation of His work at each step
 and declared it ``good'' (pronounced judgement.)
 \end{enumerate}
 
-\subsubsection{Some conclusions we may draw with confidence}
-\begin{itemize}
-\item God has given us a completely trustworthy description of His work
-of creation, teaching us about His attributes in this description.
-\item The account is inconsistent with modern scientific cosmology
-because the proponents reject the creator by presupposition and present
-a model that cannot answer the critical question of origin - where did
-whatever went ``Big Bang'' come from? Neither can they go back and repeat
-the experiment and test their model. They take their conclusions on faith
-as we do ours.
-\item Everything in creation functions according to His will and plan.
-We have physics, chemistry, geology, and mathematics because He created
-them. I would note that His work is setting the stars (and planets) in
-place (Ps 8:3) would involve significant expansion (time is not constant
-as it is under our Newtonian view of physics) could explain some observations
-that arise in the old/young earth debate.
-\end{itemize}
+\section{Homework}
 
-\subsubsection{Job Job 38:1--7 \ldots\ 40:3--5: Man's inability to discuss the details of creation}
-
-In God's answer to Job, we see that God's first appeal is to His work of
-creation as evidence of His power and deity and notes man's complete
-inability to engage Him in an intelligent discussion of the details.
-Note that God uses sarcasm quite effectively here -- and Job got the
-point.
-
-\begin{quotation}
-$^{1}$Then the LORD answered Job out of the whirlwind and said: 
-$^{2}$``Who is this that darkens counsel by words without knowledge? 
-$^{3}$Dress for action like a man; I will question you, and you
-make it known to me. 
-$^{4}$Where were you when I laid the foundation of the earth? 
-Tell me, if you have understanding. 
-$^{5}$Who determined its measurements--surely you know! 
-Or who stretched the line upon it? 
-$^{6}$On what were its bases sunk, or who laid its cornerstone, 
-$^{7}$when the morning stars sang together and all the sons of
-God shouted for joy?\ldots'' [Job 38:1--7, ESV]).
-\end{quotation}
-
-Despite all our learning, not much has changed. Only a fool would
-offer a response different than that of Job
-
-\begin{quotation}
-$^{3}$Then Job answered the LORD and said: 
-$^{4}$``Behold, I am of small account; what shall I answer you? 
-I lay my hand on my mouth. 
-$^{5}$I have spoken once, and I will not answer; 
-twice, but I will proceed no further.'' 
-[Job 40:3--5, ESV]
-\end{quotation}
+Look in detail at the days of creation in Gen 1:2-31 and ask what
+conclusions would God have us draw. Then look at God's provision for
+man in Gen 2.
 
 
 % For bibtex...
