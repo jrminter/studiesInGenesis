@@ -3,7 +3,8 @@
 \documentclass[12pt]{article}
 
 \usepackage[utf8]{inputenc}
-\input{./inc/jrm-iPad-macros.tex}
+\input{../common/jrm-iPad-macros.tex}
+
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
@@ -64,12 +65,33 @@ require(xtable)
   \large{\theDate}
 \end{center}
 
-\section{Introduction}
+\section{Brief Review}
+Last week week compared the the creation summary in Gen 1:1 and compared
+it to parallel accounts in Col 1:15-20 and Heb 1:1-4. We noted God's
+claim as creator -- attributed to Christ in the NT parallel passages,
+as distinct from and sovereign over the creation.
+
+One correction: I mispoke. In Col 1:15 and 18, Paul used the term
+`\foreign{prototokos}' to describe Christ. The emphasis is on the
+firstborn as heir, the one who inherits and rules over creation.
+It is John who uses the term `\foreign{monogenes}' in John 1:18 and
+3:16 which emphasizes the Christ as the unique (one of a kind),
+pre-emminent Son.
+
+We then began to look at the more detailed account in Gen 1:2--31.
+God begins in Gen 1:2 with the nacent earth - which He describes as
+formless or barren (\foreign{tohu}) and void or disordered (\foreign{bohu})
+and describes how He fills it and establishes order in six ``days''
+(\foreign{yom}). Your homework was to read these descriptions and to look
+for common elements, to help us answer the question:
+\begin{quotation}
+What conclusions is God trying to get us to draw from this account?
+\end{quotation}
 
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
-\bibliography{../Sweave/inc/theBib}
+\bibliography{../common/theBib}
 
 
 \end{document}

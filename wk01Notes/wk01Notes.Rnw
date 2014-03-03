@@ -3,7 +3,7 @@
 \documentclass[12pt]{article}
 
 \usepackage[utf8]{inputenc}
-\input{./inc/jrm-iPad-macros.tex}
+\input{../common/jrm-iPad-macros.tex}
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
@@ -89,6 +89,7 @@ under the control of the Spirit of God, we can be confident of their
 conclusions. A wise friend summarized this with the statement,
 ``Scripture interprets Scripture.''
 
+\pagebreak
 \subsection{Jesus's statements} 
 
 \subsubsection{John 5:39--40}
@@ -303,7 +304,7 @@ twice, but I will proceed no further.''
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
-\bibliography{../Sweave/inc/theBib}
+\bibliography{../common/theBib}
 
 
 \end{document}

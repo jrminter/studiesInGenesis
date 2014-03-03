@@ -4,6 +4,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc} 
 \usepackage[paperheight=8.20in,paperwidth=6.30in,top=0.5in, bottom=0.3in, left=0.75in, right=0.5in]{geometry}
+\usepackage{parskip} % skips a line between
+\setlength{\parindent}{15pt} % indents
 \usepackage{cite}
 \usepackage{amsmath}
 \usepackage[pdftex]{graphicx}
@@ -36,7 +38,7 @@
 \def \til
 	{\~{}}				% ~ in text
 
-
+\newcommand{\foreign}[1]{\emph{\textcolor{red}{#1}}}
 % Logical styles
 % 1 - computer code
 \newcommand{\code}[1]{{\upshape\mdseries\ttfamily #1}}

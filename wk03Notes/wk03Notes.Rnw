@@ -3,7 +3,7 @@
 \documentclass[12pt]{article}
 
 \usepackage[utf8]{inputenc}
-\input{./inc/jrm-iPad-macros.tex}
+\input{../common/jrm-iPad-macros.tex}
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
@@ -69,7 +69,7 @@ require(xtable)
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
-\bibliography{../Sweave/inc/theBib}
+\bibliography{../common/theBib}
 
 
 \end{document}

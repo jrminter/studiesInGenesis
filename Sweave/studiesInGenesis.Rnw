@@ -2,7 +2,7 @@
 % 3456789012345678901234567890123456789012345678901234567890123456789012
 \documentclass[11pt,paper=letter,parskip=half,DIV=18,oneside,headinclude,footinclude=false,bibliography=totoc]{scrartcl}
 \usepackage[utf8]{inputenc}
-\input{./inc/jrm-koma-macros}
+\input{../common/jrm-koma-macros}
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
@@ -63,7 +63,7 @@ require(xtable)
 %% this is a very simple title w/o make title
 %% a logo at the upper right corner
 \includegraphics[width=1.5in]
-{./inc/Northgate.pdf} \\
+{../common/Northgate.pdf} \\
 
 \begin{center}
 \LARGE{\textbf{\textcolor{DispositionColor}{\theTitle}}}
@@ -120,7 +120,7 @@ failure to consistently follow God and the need for Christ for any hope.
 \begin{figure*}[b]
 \noindent
 \hrulefill \\
-\input{./inc/copyright.tex}
+\input{../common/copyright.tex}
 \end{figure*}
 
 \raggedbottom
@@ -1000,6 +1000,6 @@ Gen 15:13.
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
-\bibliography{./inc/theBib}
+\bibliography{../common/theBib}
 
 \end{document}
