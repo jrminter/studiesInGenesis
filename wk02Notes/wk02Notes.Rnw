@@ -1,0 +1,75 @@
+% ============================ wk02Notes.Rnw ===========================
+% 3456789012345678901234567890123456789012345678901234567890123456789012
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\input{./inc/jrm-iPad-macros.tex}
+
+%% general metadata:
+\newcommand{\theAuthor}{John Minter}
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 2 Notes} 
+\newcommand{\theSubject}{Genesis} 
+\newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
+\newcommand{\theDate}{March 9, 2014}
+
+% automatic hyperlinks in document
+\usepackage[pagebackref=true]{hyperref}
+\hypersetup
+{
+colorlinks=true,
+% linkcolor=DarkerRed,
+linkcolor=blue,
+% citecolor=DarkGreen,
+citecolor=blue,
+% citecolor=threadlessTwo,
+urlcolor=blue,
+% urlcolor=threadlessFour,
+bookmarksnumbered=true,
+bookmarksopen=false,
+bookmarksopenlevel=1,
+pdfpagemode={UseOutlines},
+pdfpagelayout={SinglePage},
+pdfview=Fit,
+pdfstartview=Fit,
+pdfauthor={\theAuthor},
+pdfsubject={\theSubject},
+pdftitle={\theTitle},
+pdfkeywords={\theKeywords}
+}
+%
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+%
+% Set up Sweave...
+%
+<<echo=F,results=hide>>=
+# A hidden code chunk
+# start with a clean environment
+rm(list=ls())
+options(digits=4, width=65, continue=" ")
+# be sure to set as needed
+str.wd <- '~/work/proj/studiesInGenesis/wk02Notes/'
+setwd(str.wd)
+Sys.setenv(TEXINPUTS=str.wd)
+Sys.setenv(BIBINPUTS=str.wd)
+Sys.setenv(BSTINPUTS=str.wd)
+# make sure needed packages & functions are loaded
+require(xtable)
+@
+
+% use a custom title
+\begin{center}
+  \Large{\textbf{\textcolor{red}{\theTitle}}} \\
+  \large{\theDate}
+\end{center}
+
+\section{Introduction}
+
+
+% For bibtex...
+\bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
+\bibliography{../Sweave/inc/theBib}
+
+
+\end{document}
