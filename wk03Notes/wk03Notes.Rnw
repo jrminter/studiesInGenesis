@@ -7,10 +7,10 @@
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
-\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 3 Notes} 
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 3 Notes -- Gen 3 \& 4} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
-\newcommand{\theDate}{March 9, 2014}
+\newcommand{\theDate}{March 16, 2014}
 
 % automatic hyperlinks in document
 \usepackage[pagebackref=true]{hyperref}
@@ -49,7 +49,7 @@ pdfkeywords={\theKeywords}
 rm(list=ls())
 options(digits=4, width=65, continue=" ")
 # be sure to set as needed
-str.wd <- '~/work/proj/studiesInGenesis/wk02Notes/'
+str.wd <- '~/work/proj/studiesInGenesis/wk03Notes/'
 setwd(str.wd)
 Sys.setenv(TEXINPUTS=str.wd)
 Sys.setenv(BIBINPUTS=str.wd)
@@ -64,7 +64,214 @@ require(xtable)
   \large{\theDate}
 \end{center}
 
-\section{Introduction}
+\section{Brief Review}
+
+We ended last week summarizing God's provision for man in Gen 2.
+
+\begin{enumerate}
+\item God provides \red{completely} for man's physical needs -- creating
+a wonderful garden habitat (Gen 2:1-14)
+\item God provides a \red{noble purpose} for man -- a job as steward to
+oversee the garden (Gen 2:15)
+\item God provides \red{one command} for man: to not eat from one specific
+tree -- with clear consequences for violation: death. This gives the
+man a choice (Gen 2:16-17)
+\item God provides the man \red{a woman} for companionship and institutes
+marriage (much to the chagrin of the US Federal Courts\ldots) (Gen 2:18-24)
+\item The chapter ends with the man and the woman naked and unashamed--
+\red{innocent} (Gen 2:25)
+\end{enumerate}
+
+\red{Homework for next week:} Please read Gen 6-11, focusing on the downward
+spiral to Noah, Noah's response to God, and then the downward spiral of
+Noah's descendants, leading to God's intervention at Babel. ``An up close
+and personal look at the noetic effects of sin.''
+
+\section{Meet the tempter Gen 3:1}
+
+Something has happened between Gen 2 and 3\ldots
+
+In Gen 3:1 we are introduced to a new character, ``the serpent'' who
+speaks to the woman and is described as ``crafty'' or ``shrewd''
+(\foreign{arum}). The word has two connotations - one is positive:
+discerning. The second connotation is negative: deceptive. The context
+shows us that this is the case. We note here that the serpent speaks
+to Eve, questioning God's command, and later calling Him a liar.
+
+The Scriptures discuss this individual in quite symbolic language. Let's
+briefly consider two directly relevant passages:
+
+\begin{enumerate}
+\item \red{Eze 38:11-19} is a lament that God directs Ezekiel to
+direct to the King of Tyre. The language evokes the character of
+Satan and many facets could not be directly true of the King of
+Tyre -- such as \red{being present in the Garden of Eden.} Here
+Satan is described as a \red{created being} tasked with the job
+of \red{``covering cherub''} who had instead \red{rebelled against
+God}. God forcibly \red{rejected Satan from heaven}.
+\item \red{Rev 12:7--9} $^{7}$Now war arose in heaven, Michael and his
+angels fighting against the dragon. And the dragon and his angels fought
+back, $^{8}$but he was defeated, and there was no longer any place for
+them in heaven. $^{9}$And the great dragon was thrown down, that
+ancient serpent, who is called the devil and Satan, the deceiver of the
+whole world--he was thrown down to the earth, and his angels were thrown
+down with him.
+\end{enumerate}
+
+\section{Satan's subtle deception Gen 3:1--4}
+\begin{itemize}
+\item \red{Change God's Word} to make it appear more burdensome and
+unreasonable: ``Did God actually say, `You shall not eat of \red{any}
+tree in the garden'?'' [Gen 3:1] \red{Note:} Eve follows the pattern
+and adds her own ``prohibition'': `neither shall you touch it
+[Gen 3:3]'.
+\item \red{A blatant lie:} ``You will not surely die. [Gen 3:4]''
+\item \red{A half truth:} ``God knows that when you eat of it your
+eyes will be opened, and you will be like God, knowing good and evil.''
+This leaves out the important fact that, unless God directly intervened
+and prevented them from eating from the tree of life, they would live
+forever in their fallen, sinful state [Gen 2;5, 23].
+\end{itemize}
+
+\subsection{Dealing with conflicting Claims Gen 3:2-6}
+Note that Adam and Eve were confronted with conflicting claims from
+two individuals. Look back at the relationship they had with God, and
+what at least Adam had seen God do. Why would they trade the known,
+loving counsel from God for the smooth talk of the serpent? The text
+gives us a clue to their motives in v. 6.
+
+\section{The choice that changed history: Gen 3:6}
+
+In the 3rd Century, Augustine pointed to this passage in his discussion
+with Pelagius. Augustine noted that the text's assertion that Adam and
+Eve were naked and unashamed meant that they were innocent -- their will
+untainted by sin. He noted that here they had a true free choice: they could
+choose to not sin but obey God or they could choose to sin and disobey
+God.
+
+Note the rationale given in v. 6. Does that remind you of a verse from
+the Apostle John?
+
+\begin{quotation}
+$^{15}$Do not love the world or the things in the world. If anyone loves the world,
+the love of the Father is not in him. $^{16}$For all that is in the world--the
+desires of the flesh and the desires of the eyes and pride of life--is not
+from the Father but is from the world. $^{17}$And the world is passing away
+along with its desires, but whoever does the will of God abides forever.
+[1~Jn~2:15--17,~ESV]
+\end{quotation}
+
+\section{The offense against God Gen 3:7-10}
+And so they broke the single commandment. The consequences were
+immediate - as shown in Gen 3:7.
+
+Contrast Gen 3:7 with Gen 2:25. They now saw shame in their nakedness.
+They also immediately knew terror at the thought of being in the
+presence of our Holy God, so they hid.
+
+God will pick up on the nakedness metaphor later in Scripture
+(e.g. Nah 3:5 and Rev 3:18). They were no longer innocent; they had
+died spiritually and had a new nature - that of a sinner. This sin had
+permeated and infected every aspect of their being. Theologians call
+this ``the noetic effects of sin.'' They were now enslaved to sin, and
+needed a savior.
+
+Jesus taught it:
+\begin{quotation}
+$^{34}$Jesus answered them, ``Truly, truly, I say to you, everyone who
+practices sin is a slave to sin.\ldots $^{36}$So if the Son sets you
+free, you will be free indeed.~[Jn~8:34,~36,~ESV]
+\end{quotation}
+
+Paul taught it:
+\begin{quotation}
+$^{20}$For when you were slaves of sin, you were free in regard to 
+righteousness. $^{21}$But what fruit were you getting at that time from the
+things of which you are now ashamed? For the end of those things is death.
+$^{22}$But now that you have been set free from sin and have become slaves
+of God, the fruit you get leads to sanctification and its end, eternal life.
+$^{23}$For the wages of sin is death, but the free gift of God is eternal
+life in Christ Jesus our Lord.[Ro~6:20--23,~ESV].
+\end{quotation}
+
+Let's take a peek at their new character when confronted by God.
+
+\section{The blame game Gen 3:11-13}
+
+Note the fruit of their sin in their response to God.
+\begin{itemize}
+  \item Adam blames God because He gave Adam Eve. The wife he had so
+  highly praised in Gen 2.
+  \item Eve blames the serpent because he deceived her.
+  \item Neither confesses their motives from Gen 3:6 nor accepts
+  responsibility for their actions. 
+\end{itemize}
+
+We clearly see the noetic effect of sin on their character.
+
+\section{Judgement Gen 3:14--19}
+\begin{itemize}
+  \item \textbf{Judgement against the serpent (Gen 3:14-15)}
+  Pushed into the dust and destined to die by the seed of the
+  woman (the \emph{protevangel}) - the first hint of Christ's victory.
+
+  \item \textbf{Judgement against the woman (Gen 3:16)}
+  Pain in childbirth and forced to submit to her husband
+  regardless of whether he leads in love.
+
+  \item \textbf{Judgement against the man (Gen 3:17:19)}
+  Work became toil, producing food much more difficult for his
+  (and her) now limited life. They now got to know the fear of death.
+  Which would have been more terrifying: immediate death, or never
+  being sure whether today would be the day?
+\end{itemize}
+
+\section{God shows grace and mercy: Gen 3:21-24}
+\begin{itemize}
+    \item God clothed them in animal skins - he sacrificed an animal
+  and the blood covered their sin. [Gen 3:21]
+  \item Then they are driven from the garden to prevent them
+  from being eternally in this state. [Gen 3:22-24]
+  \item Note: In all three cases, each knew the cost before the choice
+  and made the choice, willing to accept the consequences. God showed
+  mercy to Adam and Eve by not immediately tossing them into the Lake
+  of Fire for all eternity. They were now given the choice to believe
+  God and have it credited to them as righteousness. They had no
+  details but they did know God. They could trust and serve Him as
+  Lord or not. A new choice\ldots But more difficult because of a 
+  new nature\ldots
+\end{itemize}
+\section{Cain and Abel}
+
+\subsection{A tale of two offerings: Gen 4:1-7}
+\begin{itemize}
+  \item Abel -- a shepherd -- brought an offering from the
+  ``first born of his flock and their fat portions'' - the 
+  very best and a blood sacrifice (Gen 4:4) and God accepted
+  it (Gen 4:5)
+  \item Cain -- a farmer -- brought an offering from ``the fruit of
+  the ground'' (Gen 4:3). God rejected this (Gen 4:5). Cain is angry,
+  and God both instructs (Gen 4:7a) and warns (Gen 4:7b) him.
+\end{itemize}
+
+\subsection{Cain murders Abel: Gen 4:8-16}
+\begin{itemize}
+  \item Cain ignores God's teaching and murders Abel in anger (Gen 4:8)
+  \item God confront's Cain, who feigns ignorance (Gen 4:9)
+  \item God is not mocked ``What have you done? The voice of your
+  brother's blood is crying to me from the ground.'' (Gen 4:10)
+  \item God pronounces judgement (Gen 4:11-12)
+  \item Cain complains that the punishment is unbearable (Gen 4:13-14)
+  \item God proclaims that he will execute vengeance on anyone who
+  kills Cain (Gen 4:15-16)
+  \item Cain overstated punishment because he had children and
+  they prospered (Gen 4:17-24)
+\end{itemize}
+
+\section{The birth of Seth: Gen 4:25-26}
+
+Adam and Eve have another son through whom their line continues.
+
 
 
 % For bibtex...
