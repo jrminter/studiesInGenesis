@@ -10,7 +10,7 @@
 \newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 3 Notes -- Gen 3 \& 4} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
-\newcommand{\theDate}{March 16, 2014}
+\newcommand{\theDate}{March 23, 2014}
 
 % automatic hyperlinks in document
 \usepackage[pagebackref=true]{hyperref}
@@ -66,7 +66,7 @@ require(xtable)
 
 \section{Brief Review}
 
-We ended last week summarizing God's provision for man in Gen 2.
+We ended last time summarizing God's provision for man in Gen 2.
 
 \begin{enumerate}
 \item God provides \red{completely} for man's physical needs -- creating
