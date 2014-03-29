@@ -7,10 +7,10 @@
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
-\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 4 Notes} 
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 4 Notes -- Gen 6-11} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
-\newcommand{\theDate}{March 9, 2014}
+\newcommand{\theDate}{March 30, 2014}
 
 % automatic hyperlinks in document
 \usepackage[pagebackref=true]{hyperref}
@@ -64,7 +64,198 @@ require(xtable)
   \large{\theDate}
 \end{center}
 
-\section{Introduction}
+\section{Brief Review}
+We ended last time with the perpetration of sin in Cain's murder of Abel.
+I received two good questions after class that I want to address. Then we
+will look at the continued effects of sin in Adam's descendants which prompt
+God to display both His grace and wrath in the time of Noah. We will see
+Noah's descendants continue to struggle with sin, causing God to intervene
+to disrupt at Babel.
+
+I also want to slow down a bit and take time for questions and discussion.
+The time limitations will require us to focus more selectively. For those
+of you who want to read ahead, after we finish Noah, we will look at
+the call of Abram in Gen 12--13.
+
+\subsection{Question 1}
+Bill asked about the origin of the term \emph{noetic}. It comes from the
+Greek word for `mind' or `intellect'. The idea is that man's intellect is
+fallen, his mind is darkened, and he has become a fool. People have long
+recognized that the consumption of alcohol can make what is later seen
+as a really foolish decision seem like a good idea at the time. A song writer
+described this as ``beer goggles''. We often fail to recognize that fallen
+man views the world through ``sin goggles'' until God renews his mind.
+
+A great example is in Gen 4:9 where Cain responds to God's question, ``Where
+is your brother, Abel?'' with a lie and a snide remark: ``I do not know,
+am I my brother's keeper?''
+God's mercy and restraint is remarkable\ldots 
+
+\subsection{Question 2}
+Ted Larter asked the question that is on all our minds: ``Why would God permit
+this?''
+
+This is where we need to let Scripture interpret Scripture. In Eph 1:4-6, Paul
+makes it clear that redemption of sinful man by the death of Christ was God's
+plan from ``before the foundation of the world'' -- that is before creation.
+This was God's ``Plan A'' -- not a case of taking lemons and making lemonade.
+
+Paul gives us a glimpse of God's thinking in Rom 9:22-24
+
+\begin{quotation}
+$^{22}$What if God, desiring to show his wrath and to make known his power,
+has endured with much patience vessels of wrath prepared for destruction,
+$^{23}$in order to make known the riches of his glory for vessels of mercy,
+which he has prepared beforehand for glory -- $^{24}$even us whom he has
+called, not from the Jews only but also from the Gentiles? [Ro~9:22--24,~ESV]
+\end{quotation}
+
+Paul's answer is that God put up with the revulsion of sin to demonstrate
+all His attributes to His people - with whom He desires an everlasting
+relationship. We can't begin to comprehend His grace and mercy without
+understanding the wretched depravity from which He redeemed us and the
+tremendous cost of that redemption.
+
+\section{Fast forward through 10 generations}
+
+Noah is the \red{tenth} generation from Adam. This is one place we
+need to get selective. Besides Noah, the text doesn't say much about
+these patriarchs beyond that most lived longer than 900 years. One
+notable exception is Enoch.
+
+\subsection{Enoch's relationship with God}
+\begin{quotation}
+$^{22}$Enoch walked with God after he fathered Methuselah 300 years
+and had other sons and daughters. $^{23}$Thus all the days of Enoch
+were 365 years. $^{24}$Enoch walked with God, and he was not, for
+God took him. [Ge~5:22--24, ESV].
+\end{quotation}
+
+The writer to the Hebrews provides the following interpretation
+
+\begin{quotation}
+$^{5}$By faith Enoch was taken up so that he should not see death,
+and he was not found, because God had taken him. Now before he was
+taken he was commended as having pleased God. [Heb 11:5, ESV].
+\end{quotation}
+
+Note that the decrease in lifespan from Methuselah (969) to Lamech (739)
+suggests that both perished in the Flood.
+
+\section{God's assessment of man}
+
+The general spiritual state at this time can only be described as abysmal.
+God is livid.
+
+\begin{quotation}
+$^{5}$The LORD saw that the wickedness of man was great in the earth, and
+that \red{every intention of the thoughts of his heart was only evil continually.}
+$^{6}$And the LORD regretted that he had made man on the earth, and it
+grieved him to his heart. $^{7}$So the LORD said, ``I will blot out man whom
+I have created from the face of the land, man and animals and creeping
+things and birds of the heavens, for I am sorry that I have made them.''
+[Ge~6:5--7,~ESV]).
+\end{quotation}
+
+
+This judgement is justified. We would not be here if God had not made
+one other statement:
+
+\begin{quotation}
+$^{8}$But Noah found favor (\emph{hen}, grace) in the eyes of the LORD. [Ge~6:8,~ESV]
+\end{quotation}
+
+\section{Noah's character and relationship with God}
+
+In Ge 6:9, God describes Noah's character in a thesis statement for
+this chapter
+
+\begin{quotation}
+$^{9}$\ldots Noah was a righteous man, blameless in his generation. Noah walked with God. [Ge 6:9, ESV]
+\end{quotation}
+
+As we continue, ask yourself, ``\red{How/Why was Noah righteous?}''
+
+\subsection{God's revelation to Noah}
+
+\begin{itemize}
+  \item God reveals His plan to flood the Earth and why (Gen 6:12-13)
+  \item God commands Noah to build a massive Ark (Gen 6:14-17)
+  \item God explains His covenant of deliverance (Gen 6:18-21)
+\end{itemize}
+
+God describes Noah's response succinctly in v 22.
+
+\begin{quotation}
+$^{22}$Noah did this; he did all that God commanded him. [Ge 6:22, ESV]
+\end{quotation}
+
+\subsection{Noah's response after deliverance Gen 8:20-22}
+
+God gives us a glimpse into Noah's heart in his response to
+deliverance
+
+\begin{quotation}
+$^{20}$Then Noah built an altar to the LORD and took some of every
+clean animal and some of every clean bird and offered burnt offerings
+on the altar. $^{21}$And when the LORD smelled the pleasing aroma, the
+LORD said in his heart, ``I will never again curse the ground because
+of man, for the intention of man’s heart is evil from his youth.
+Neither will I ever again strike down every living creature as
+I have done. $^{22}$While the earth remains, seedtime and harvest,
+cold and heat, summer and winter, day and night, shall not cease.''
+[Ge 8:20--22, ESV]
+\end{quotation}
+
+God saw Noah's response in faith and made a covenant with him and
+his descendants -- \red{in spite of man's sinful nature}.
+
+The writer to the Hebrews (11:7) helps us understand Noah's righteousness.
+
+\begin{quotation}
+$^{7}$By faith Noah, being warned by God concerning events as
+yet unseen, in reverent fear constructed an ark for the saving
+of his household. By this he condemned the world and \red{became an
+heir of the righteousness that comes by faith}. [Heb 11:7, ESV]
+\end{quotation}
+
+\subsection{The charge to Noah and his descendants Gen 9:1-17}
+
+Some key points
+
+\begin{itemize}
+  \item The command to multiply and subdue the earth -- as it's
+  stewards (\red{Gen 9:1-4})
+  \item Establishes the death penalty for murder and expects
+  human government to administer as His representative (\red{Gen 9:5-6})
+  \item Provides the rainbow as a symbol of His covenant not to
+  again destroy all life by flood (\red{Gen 9:7-17}) 
+\end{itemize}
+
+\subsection{The response of Noah and his descendants Gen 9:18-11:31}
+
+Here we see further examples of the noetic effects of sin and yet
+another downward spiral. The first recorded incident was the poor
+judgement of Noah's son Ham when Noah passed out after consuming
+too much wine (\red{Gen 9:21-22}). This caused significant family turmoil.
+
+The rapid decline continued, culminating in God's intervention at Babel.
+
+\begin{quotation}
+$^{4}$Then they said, ``Come, let us build \red{ourselves} a city and a tower
+with its top in the heavens, and let us make a \red{name for ourselves},
+lest we be dispersed over the face of the whole earth.'' [Ge 11:4, ESV]
+\end{quotation}
+
+Note how this was problematic for several reasons
+
+\begin{itemize}
+  \item They ignore God's command to fill and subdue the earth.
+  \item Their plan is for their glory, not God's
+  \item They have lost all sight of their job as God's stewards.
+\end{itemize}
+
+God intervenes to stop this epic fail.
 
 
 % For bibtex...
