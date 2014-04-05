@@ -7,10 +7,11 @@
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
-\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 5 Notes} 
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ
+Week 5 Notes -- Gen 12--13} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
-\newcommand{\theDate}{March 9, 2014}
+\newcommand{\theDate}{April 6, 2014}
 
 % automatic hyperlinks in document
 \usepackage[pagebackref=true]{hyperref}
@@ -66,6 +67,192 @@ require(xtable)
 
 \section{Introduction}
 
+Last week we ended with God's intervention to stop man's sin at Babel.
+This week we will begin our study of Abraham, looking at his call by
+God in Gen 12 and 13. Next time we will consider Abram, Melchizedek,
+and the covenant from Gen 14--15 if you want to read ahead.
+
+\subsection{Genealogy of Abram: Gen 11:10--26}
+Gen 11:10--26 Records the genealogy from Noah's son Shem to Abram. We
+will not dwell on these genealogies, but we will pause for a moment
+and consider the question:
+
+\red{Q:} Why are these genealogies at all relevant to the Gospel
+of Christ?
+
+\red{A:} We saw the \emph{protoevangel} -- the first hint of the Gospel
+-- in Gen 3:15. Christ will be a descendant of Eve. We will see another
+in Gen 12:3. And in Jer 23:5 we see that the Christ will be a descendant
+of David. These genealogies are important to establish Jesus' claim to
+be the Messiah.
+
+\subsection{Abram's family history: Gen 11:27-32}
+
+The patriarchs are all real people. It is too easy to consider them
+larger than life and view them through rose colored glasses. This was
+an issue for the Jews of Christ's day. We view U.S. presidents like
+Washington and Lincoln in the same way. Here we get a hint that
+Abram's life was complicated by family dynamics.
+
+\section{The call of Abram: Gen 12:1--9}
+
+\red{Note:} Get someone to read this passage
+
+This section summarizes the key points: God called Abram and made bold
+promises to him. Abram obeyed. All this is true.
+
+\subsection{Some geographical notes to help you get your bearings}
+
+\begin{itemize}
+\item \red{Ur of the Chaldeans} was near Baghdad, Iraq.
+\item \red{Haran} was northwest of Ur, in southern Turkey near the
+Syrian border. It appeared to be approximately midway between the Tigris
+and Euphrates rivers (both reasonable trade routes), so they could have
+taken either route. This was a logical stop on the way to modern Israel
+because it avoided the direct route through the Arabian desert.
+\item \red{Hebron} was on the West Bank, 19 miles south of Jerusalem.
+\item Abram's wanderings, including the trip to Egypt are thought to
+have totaled approximately 1500 miles.
+
+\end{itemize}
+
+Establishing the
+timeline is a bit more complicated and there are hints to some 
+complicated family dynamics. Happily, the Scriptures tell us what
+we need to know\ldots
+
+\subsection{Hints at a timeline issue}
+
+\red{Q:} How many of your bibles have a footnote at Gen 12:1? What does it say?
+ 
+\vskip 0pt
+\begin{tabular}{|l|l|l|}
+  \hline
+  Version & Note                                            & Comment       \\
+  \hline
+  ESV     & ``or had said''                                 & least helpful \\
+  \hline
+  NAS95   & ``Gen 15:7, Acts 7:3, Heb 11:8''                & more helpful  \\
+  \hline
+  NET     & ``The LORD called Abram while he was in Ur      & almost too \\
+          & (see Gen 15:7; Acts 7:2); but the sequence here & easy\ldots \\
+          & makes it look like it was after the family left & \\
+          & to migrate to Canaan (11:31--32). Genesis       & \\
+          & records the call of Abram at this place in the  & \\
+          & narrative because it is the formal beginning of & \\
+          & the account of Abram. The record of Terah was   & \\
+          & brought to its end before this beginning.''     & \\
+  \hline
+\end{tabular}
+
+Let's let Scripture interpret Scripture
+
+\begin{quotation}
+``$^{7}$I am the LORD who brought you out from Ur of the Chaldeans to give you this land to possess.'' [\red{Gen~15:7}, ESV]
+\end{quotation}
+
+\begin{quotation}
+  ``\ldots $^{2}$The God of glory appeared to our father Abraham when
+  he was in Mesopotamia, before he lived in Haran, $^{3}$and said to
+  him, `Go out from your land and from your kindred and go into the
+  land that I will show you.' $^{4}$Then he went out from the land of
+  the Chaldeans and lived in Haran. And after his father died, God
+  removed him from there into this land in which you are now
+  living. $^{5}$Yet he gave him no inheritance in it, not even a foot's
+  length, but promised to give it to him as a possession and to his
+  offspring after him, though he had no child.'' [\red{Acts~7:2--5},
+  ESV] (Stephen's Sermon)
+\end{quotation}
+
+\red{Q:} What family dynamics do you think were going on that affected
+Abram's obedience to God's call?
+
+There is an interesting exchange between Jesus and some disciples
+recorded in \red{Luke 9:57-60}
+
+\begin{quotation}
+$^{57}$As they were going along the road, someone said to him, ``I will
+follow you wherever you go.'' $^{58}$And Jesus said to him, ``Foxes have
+holes, and birds of the air have nests, but the Son of Man has nowhere
+to lay his head.'' $^{59}$To another he said, ``Follow me.'' But he
+said, ``Lord, let me first go and bury my father.'' $^{60}$And Jesus
+said to him, ``Leave the dead to bury their own dead. But as for you, go
+and proclaim the kingdom of God.'' [Lk~9:57--60, ESV]
+\end{quotation}
+
+\red{Q:} Do you think Jesus thought of Abram?
+
+\red{Q:} Aren't you glad the writer to the Hebrews reminds us:
+\begin{quotation}
+$^{15}$For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. $^{15}$Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need. [Heb~4:15--16, ESV]
+\end{quotation}
+
+\subsection{Summary of Abram's call}
+We see that there were many barriers that caused Abram to delay
+in obeying God's call. Yet in the end, he did obey.
+
+The Apostle Paul gives us this summary:
+  
+\begin{quotation}
+  $^{1}$What then shall we say was gained by Abraham, our forefather
+  according to the flesh? $^{2}$For if Abraham was justified by works,
+  he has something to boast about, but not before God. $^{3}$For what
+  does the Scripture say? ``Abraham believed God, and it was counted
+  to him as righteousness.'' [Ro 4:1–3 citing Gen 15:6, ESV].
+\end{quotation}
+
+And the writer to the Hebrews gives us this summary:
+
+\begin{quotation}
+  $^{8}$By faith Abraham obeyed when he was called to go out to a place
+  that he was to receive as an inheritance. And he went out, not knowing
+  where he was going. [Heb~11:8, ESV]
+\end{quotation}
+
+\section{Fear and snares}
+
+As a real person, Abram faced fears and snares. We see several in
+Gen~12--13. We will see others in subsequent weeks as Abram awaits the
+promised heir. Let's briefly examine the ones we find in Gen~11--13.
+
+\begin{itemize}
+  \item Family entanglements in Ur and Haran (Gen 11:28-12:4)
+  \item Deception of Pharaoh regarding relationship with Sarai
+  (Gen 12:10-20)
+  \item Strife with Lot over water/pasture (Gen 13:1-13)
+\end{itemize}
+
+\section{Acts of faith}
+
+As a believer, we will see Abram show many acts of faith. We have already
+seen him move his family toward the promised land. There is another act of
+faith in Gen 13, after Abram separates from Lot, whom we shall later see has
+questionable judgement.
+
+\begin{quotation}
+$^{14}$The LORD said to Abram, after Lot had separated from him, ``Lift
+up your eyes and look from the place where you are, northward and
+southward and eastward and westward, $^{15}$for all the land that you
+see I will give to you and to your offspring forever. $^{16}$I will make
+your offspring as the dust of the earth, so that if one can count the
+dust of the earth, your offspring also can be counted. $^{17}$Arise,
+walk through the length and the breadth of the land, for I will give it
+to you.'' $^{18}$\red{So Abram moved his tent and came and settled by
+the oaks of Mamre, which are at Hebron, and there he built an altar to
+the LORD}. [Ge~13:14--18, ESV]
+\end{quotation}
+
+
+\section{Summary}
+We see Abram presented as a real person with real fears and
+all the problems that come up in a human life. He was a sinner
+in need of cleansing, ultimately with the shed blood of Christ.
+He believed God's revelation, and and ultimately obeyed. On that basis
+God declared him righteous and used him to father the line from which
+Christ would be born.
+
+Next time we will cover Abram, Melchizedek, and the covenant from
+Gen 14--15. Please feel free to read ahead.
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
