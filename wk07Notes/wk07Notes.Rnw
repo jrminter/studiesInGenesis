@@ -10,7 +10,7 @@
 \newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 7 Notes} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
-\newcommand{\theDate}{March 9, 2014}
+\newcommand{\theDate}{May 11, 2014}
 
 % automatic hyperlinks in document
 \usepackage[pagebackref=true]{hyperref}
