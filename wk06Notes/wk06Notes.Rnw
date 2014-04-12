@@ -7,7 +7,8 @@
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
-\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 6 Notes} 
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 6 Notes
+-- Abram, Melchizedek, and the covenant Gen 14--15} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
 \newcommand{\theDate}{April 13, 2014}
@@ -65,6 +66,165 @@ require(xtable)
 \end{center}
 
 \section{Introduction}
+
+Last week we began our study of the patriarch Abraham, beginning with
+his call out of Ur. Genesis presents Abram as real man -- with a
+complicated family dynamic, fears, and the ability to make poor
+decisions. Genesis also clearly shows Abram's love of God and faith in
+God's revelation. This week we will see Abram's faith in God displayed
+in his rescue of Lot and encounter with the king of Sodom and
+Melchizedek. God will recognize Abram's faith by His response in Gen 15.
+
+\section{Prelude: The war of the five kings and the rescue of Lot
+(Gen 14:1--16)}
+
+The region was filled with petty dictators who ruled over
+city-states. There were entangling alliances. The main difference from
+our day is the amount of territory one ruler controls.
+
+Lot, his family, and their posessions were taken when Sodom was attacked
+by one such alliance. An escaped prisoner brings Abram the news. Abram
+leads a daring night time raid with 318 of his men, defeats the enemy,
+recovers the sacked wealth and Lot's family and posessions.
+
+\begin{quotation}
+The conflict here reflects international warfare in the Early and Middle
+Bronze periods. The countries operated with overlords and vassals. Kings
+ruled over city states, or sometimes a number of city states (i.e.,
+nations). Due to their treaties, when one went to war, those confederate
+with him joined him in battle. It appears here that it is Kedorlaomer’s
+war, because the western city states have rebelled against him (meaning
+they did not send products as tribute to keep him from invading them).
+[The NET Bible First Edition, 2006. Note at ``war'' in Gen 14:2] \\ 
+You can get an electronic copy at \red{http://netbible.com/content/download}.
+\end{quotation}
+
+\red{Q:} What thoughts do you think went through Abram's mind as he
+contemplated this raid?
+
+\section{Encounter with the King of Sodom and Melchizedek (Gen 14:17--24)}
+
+\red{Note:} Get someone to read \red{Gen 14:17--24}
+
+Abram's military success earns him the respect of the King of Sodom.
+The King of Sodom comes out to meet Abram upon his return and is
+accompanied by Melchizedek, king of Salem, which the text descibes
+as ``priest of God Most High''. Melchizedek serves Abram bread and
+wine. Abram gives Melchizedek a tenth of the spoils. Abram realizes
+that this new-found wealth could cause people to charge that the
+King of Sodom, not God, had blessed Abram. To prevent this, Abram
+asks only for expenses for his men and for Lot and his family and
+posessions.
+
+First consider Melchizedek. The NET notes are helpful and succint
+here as well
+
+\begin{quotation}
+Salem is traditionally identified as the Jebusite stronghold of old
+Jerusalem. Accordingly, there has been much speculation about its king.
+Though some have identified him with the preincarnate Christ or with
+Noah’s son Shem, it is far more likely that Melchizedek was a Canaanite
+royal priest whom God used to renew the promise of the blessing to
+Abram, perhaps because Abram considered Melchizedek his spiritual
+superior. But Melchizedek remains an enigma. In a book filled with
+genealogical records he appears on the scene without a genealogy
+and then disappears from the narrative. In Psalm 110 the LORD
+declares that the Davidic king is a royal priest after the pattern of
+Melchizedek.
+\end{quotation}
+Note that this town name is a proper noun and is most likely related to
+a verb which is used to be at or make peace.
+
+\clearpage
+Now consider Melchizedek's blessing
+
+\begin{quotation}
+$^{19}$Blessed be Abram by God Most High, \\ 
+Possessor (or Creator) of heaven and earth; \\ 
+$^{20}$and blessed be God Most High, \\ 
+who has delivered your enemies into your hand! \newline
+[Ge~14:19--20, ESV].
+\end{quotation}
+
+\red{Q:} How does this statement compare to the statements made by \\ 
+Nebuchadnezzar (Da~3:28-29) and Darius (Da~6:25--27) when God
+delivered his servants?
+
+\begin{quotation}
+$^{28}$Nebuchadnezzar answered and said, ``Blessed be the God of
+Shadrach, Meshach, and Abednego, who has sent his angel and delivered
+his servants, who trusted in him, and set aside the king’s command, and
+yielded up their bodies rather than serve and worship any god except
+their own God. $^{29}$Therefore I make a decree: Any people, nation, or
+language that speaks anything against the God of Shadrach, Meshach, and
+Abednego shall be torn limb from limb, and their houses laid in ruins,
+for there is no other god who is able to rescue in this way.'' \newline
+[Da~3:28-29, ESV]
+\end{quotation}
+
+\begin{quotation}
+$^{25}$Then King Darius wrote to all the peoples, nations, and languages
+that dwell in all the earth: ``Peace be multiplied to you. 
+$^{26}$I make a decree, that in all my royal dominion people are to
+tremble and fear before the God of Daniel, for he is the living God, 
+enduring forever; his kingdom shall never be destroyed, and his dominion
+shall be to the end. $^{27}$He delivers and rescues; he works signs and
+wonders in heaven and on earth, he who has saved Daniel from the power
+of the lions.'' [Da~6:25--27, ESV]
+\end{quotation}
+
+\subsection{Commentary from Hebrews}
+\begin{quotation}
+$^{1}$For this Melchizedek, king of Salem, priest of the Most High God,
+met Abraham returning from the slaughter of the kings and blessed him,
+$^{2}$and to him Abraham apportioned a tenth part of everything. He is
+first, by translation of his name, king of righteousness, and then he
+is also king of Salem, that is, king of peace. $^{3}$He is without father
+or mother or genealogy, having neither beginning of days nor end of life,
+(i.e. a shadowy figure) but resembling the Son of God he continues a
+priest forever. $^{4}$See how great this man was to whom Abraham the
+patriarch gave a tenth of the spoils! $^{5}$And those descendants of
+Levi who receive the priestly office have a commandment in the law to
+take tithes from the people, that is, from their brothers, though
+these also are descended from Abraham. $^{6}$But this man who does not
+have his descent from them received tithes from Abraham and blessed
+him who had the promises. $^{7}$It is beyond dispute that the inferior
+is blessed by the superior. $^{8}$In the one case tithes are received
+by mortal men, but in the other case, by one of whom it is testified
+that he lives. $^{9}$One might even say that Levi himself, who
+receives tithes, paid tithes through Abraham, $^{10}$for he was still
+in the loins of his ancestor when Melchizedek met him. $^{11}$Now if
+perfection had been attainable through the Levitical priesthood (for
+under it the people received the law), what further need would there
+have been for another priest to arise after the order of Melchizedek,
+rather than one named after the order of Aaron? [Heb 7:1--11, ESV]
+\end{quotation}
+
+\section{God's response Gen 15}
+\begin{itemize}
+  \item God responds to Abram's faith in a vision ``Fear not, Abram,
+  I am your shield; your reward shall be very great.'' [Ge 15:1, ESV]
+  \item Abram is honest with God concerning his lack of a son:
+  ``$^{2}$O Lord GOD, what will you give me, for I continue childless,
+  and the heir of my house is Eliezer of Damascus?'' $^{3}$And Abram
+  said, ``Behold, you have given me no offspring, and a member of
+  my household will be my heir.'' [Ge 15:2--3, ESV]
+  \item God answers with a promise: $^{4}$\ldots ``This man shall
+  not be your heir; your very own son shall be your heir.''
+  $^{5}$And he brought him outside and said, ``Look toward heaven, and
+  number the stars, if you are able to number them.'' Then he said
+  to him, ``So shall your offspring be.'' [Ge 15:4--5, ESV]
+  \item Abram's response was a favorite of the Apostle Paul:
+  ``$^{6}$And he believed the LORD, and he counted it to him as
+  righteousness.'' [Ge 15:6, ESV]
+  \item God establishes a covenant with Abram while Abram is 
+  paralyzed, indicating that God would do all the work. The symbolism
+  is that God staked His reputation on His willingness and ability
+  to deliver (Gen 15:7--20).
+  \item God tells Abram of His certain plan for Israel to serve 400 years
+  in bondage in Egypt (Gen 15:13).
+\end{itemize}
+
 
 
 % For bibtex...
