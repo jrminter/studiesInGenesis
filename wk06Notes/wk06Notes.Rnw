@@ -75,17 +75,18 @@ God's revelation. This week we will see Abram's faith in God displayed
 in his rescue of Lot and encounter with the king of Sodom and
 Melchizedek. God will recognize Abram's faith by His response in Gen 15.
 
-\section{Prelude: The war of the five kings and the rescue of Lot
-(Gen 14:1--16)}
+\section{The war of the kings \& Lot's rescue (Gen 14:1--16)}
+
+\red{Note:} Get someone to read \red{Gen 14:1--16}
 
 The region was filled with petty dictators who ruled over
 city-states. There were entangling alliances. The main difference from
 our day is the amount of territory one ruler controls.
 
-Lot, his family, and their posessions were taken when Sodom was attacked
+Lot, his family, and their possessions were taken when Sodom was attacked
 by one such alliance. An escaped prisoner brings Abram the news. Abram
 leads a daring night time raid with 318 of his men, defeats the enemy,
-recovers the sacked wealth and Lot's family and posessions.
+recovers the sacked wealth and Lot's family and possessions.
 
 \begin{quotation}
 The conflict here reflects international warfare in the Early and Middle
@@ -108,15 +109,16 @@ contemplated this raid?
 
 Abram's military success earns him the respect of the King of Sodom.
 The King of Sodom comes out to meet Abram upon his return and is
-accompanied by Melchizedek, king of Salem, which the text descibes
+accompanied by Melchizedek, king of Salem, which the text describes
 as ``priest of God Most High''. Melchizedek serves Abram bread and
 wine. Abram gives Melchizedek a tenth of the spoils. Abram realizes
 that this new-found wealth could cause people to charge that the
 King of Sodom, not God, had blessed Abram. To prevent this, Abram
 asks only for expenses for his men and for Lot and his family and
-posessions.
+possessions.
 
-First consider Melchizedek. The NET notes are helpful and succint
+First consider Melchizedek. As the writer to the Hebrews will remind us,
+his name is composed of two Hebrew roots:  \emph{melek} (king) and \emph{sedeq} (righteousness). The NET notes are helpful and succinct
 here as well
 
 \begin{quotation}
@@ -132,8 +134,9 @@ and then disappears from the narrative. In Psalm 110 the LORD
 declares that the Davidic king is a royal priest after the pattern of
 Melchizedek.
 \end{quotation}
-Note that this town name is a proper noun and is most likely related to
-a verb which is used to be at or make peace.
+Note that the town name, \emph{Salem}, is a proper noun and is most
+likely related to a verb which means to be at or make peace. An
+apt name for a town.
 
 \clearpage
 Now consider Melchizedek's blessing
@@ -147,7 +150,7 @@ who has delivered your enemies into your hand! \newline
 \end{quotation}
 
 \red{Q:} How does this statement compare to the statements made by \\ 
-Nebuchadnezzar (Da~3:28-29) and Darius (Da~6:25--27) when God
+Nebuchadnezzar (Dan~3:28-29) and Darius (Dan~6:25--27) when God
 delivered his servants?
 
 \begin{quotation}
@@ -159,7 +162,7 @@ their own God. $^{29}$Therefore I make a decree: Any people, nation, or
 language that speaks anything against the God of Shadrach, Meshach, and
 Abednego shall be torn limb from limb, and their houses laid in ruins,
 for there is no other god who is able to rescue in this way.'' \newline
-[Da~3:28-29, ESV]
+[Dan~3:28-29, ESV]
 \end{quotation}
 
 \begin{quotation}
@@ -170,7 +173,7 @@ tremble and fear before the God of Daniel, for he is the living God,
 enduring forever; his kingdom shall never be destroyed, and his dominion
 shall be to the end. $^{27}$He delivers and rescues; he works signs and
 wonders in heaven and on earth, he who has saved Daniel from the power
-of the lions.'' [Da~6:25--27, ESV]
+of the lions.'' [Dan~6:25--27, ESV]
 \end{quotation}
 
 \subsection{Commentary from Hebrews}
@@ -225,7 +228,9 @@ rather than one named after the order of Aaron? [Heb 7:1--11, ESV]
   in bondage in Egypt (Gen 15:13).
 \end{itemize}
 
-
+We won't have class next week since we have a special
+Easter schedule. In two weeks we will look at Gen 16-20,
+Abram and the long wait for God's promised heir. 
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
