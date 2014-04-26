@@ -7,10 +7,11 @@
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
-\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 8 Notes} 
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ
+Week 8 Notes -- Isaac and Ishmael Gen~21-22} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
-\newcommand{\theDate}{March 9, 2014}
+\newcommand{\theDate}{May 11, 2014}
 
 % automatic hyperlinks in document
 \usepackage[pagebackref=true]{hyperref}
@@ -66,6 +67,54 @@ require(xtable)
 
 \section{Introduction}
 
+Here we briefly examine the family dynamics, focusing most of our
+time on the sacrifice of Isaac.
+
+\subsection{The birth of Isaac Gen~21:1-7}
+God fulfils his promise at the specified time\ldots
+
+\subsection{Family Feud Gen~21:8--21}
+Jealousy erupts again when Sarah sees Ishmael laughing (Gen~21:9). She
+asks Abraham to banish Hagar and Ishmael (Gen~21:10) Abraham is displeased
+(Gen~21:11) but God instructs Abraham to do so because Isaac is the son
+of the covenant (Gen~21:12). God says he will make a nation out of
+Ishmael as well (Gen~21:13), so Abraham banishes Hagar and Ishmael
+(Gen~21:14.) God makes certain they are cared for (Gen~21:15-21)
+
+\subsection{Abraham deals righteously with Abimelech Gen~21:22-34}
+Abimilech realizes that Abraham is blessed by God (Gen~21:22). The
+two men make a covenant to deal kindly with one another (Gen~21:23--24).
+They handle a disput well (Gen~21:25--32). Abraham continues to worship
+the Lord (Gen~21:33-34)
+
+\subsection{The sacrifice of Isaac Gen~22}
+
+\begin{itemize}
+  \item The section is framed as a test (Gen~22:1)
+  \item God asks the unthinkable - to sacrifice the child of
+  promise (Gen~22:2)
+  \item Abraham obeys immediately (Gen~22:3--5)
+  \item Isaac carries the wood, Abraham the knife (Gen~22:6)
+  \item Isaac questions Abraham about the lack of a sacrifice,
+  Abraham responds, ``God will provide for himself the lamb for
+  a burnt offering, my son.'' [Ge 22:8]
+  \item Abraham prepares to obey and is stayed by an angel, noting
+  a ram in the thicket, which Abraham sacrifices (Gen~22:13--14)
+  \item Abraham names the place ``The Lord will see/provide
+  (\emph{ra ah})''
+  \item God commends Abraham for his faith and trust (Gen~22:15--18)
+\end{itemize}
+
+\subsection{Commentary from Heb 11}
+
+\begin{quotation}
+$^{17}$By faith Abraham, when he was tested, offered up Isaac, and
+he who had received the promises was in the act of offering up his
+only son, $^{18}$of whom it was said, ``Through Isaac shall your
+offspring be named.'' $^{19}$He considered that God was able even
+to raise him from the dead, from which, figuratively speaking, he
+did receive him back. [Heb 11:17--19, ESV]
+\end{quotation}
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")

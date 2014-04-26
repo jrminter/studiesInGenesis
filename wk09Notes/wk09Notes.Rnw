@@ -7,7 +7,8 @@
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
-\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 9 Notes} 
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ
+Week 9 Notes -- Lessons from Jacob and Esau (Gen~25-35)} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
 \newcommand{\theDate}{May 18, 2014}
@@ -65,6 +66,56 @@ require(xtable)
 \end{center}
 
 \section{Introduction}
+
+We will see family dynamics at their worst. We will see
+God deal with His people, despite their faults and
+again see why we need a Savior.
+
+\section{The death of Abraham Gen~25:1--18}
+After Sarah's death, Abraham married Keturah and had six
+other sons. Because Issac was to inherit all of Abraham's
+wealth, Abraham gave gifts to his other sons while he was
+living and sent them away from Isaac, to the east. (Gen~25:6)
+
+Abraham died at age 175 and was buried by Isaac and Ishmael in
+the cave of Machpelah, land Abraham had previously pruchased
+from the Hittites. The scriptures do not report further contact
+or strife between Isaac and his brothers.
+
+\section{Isaac's family Gen~25:19--28}
+
+Issac's family was what we would call dysfunctional. First, we see the
+birth of twins, Jacob and Esau. For His own purposes (Rom 9:10--12),
+God decreed that the younger (Jacob) would serve the older (Esau), 
+reversing the cultural norm. The two sons had very different personalities,
+Esau was a hunter, frequently bringing his father game. Jacob was more
+of a homebody. Isaac made it clear that Esau was his favorite, while
+Rebekah made it clear that Jacob was hers (Gen~25:28). This would not
+end well.
+
+\section{Esau sells his birthright Gen~25:29--31}
+
+Returning exhausted from hunting, Esau finds Jacob cooking some stew.
+Esau asks for some, Jacob offers to trade stew for Esau's birth right.
+The text concludes that Esau despised his birthright. It leaves us to
+conclude on our own that Jacob thought God could use a bit of help in
+fulfilling his prophesy.
+
+\section{Deception at Isaac's death Gen~27}
+Near death, Isaac calls his favorite son Esau and asks him to prepare
+stew and then receive Isaac's final blessing. Rebekah overhears, calls
+Jacob, helps him prepare stew and disguises him to make him look more
+like Esau and sends him to be blessed. Rebekah seems to think God need
+help in fulfilling his prophesy too. Jacob gets the blessing, but Esau
+finds out and is furious, as expected, noting that Jacob is a deceiver
+by nature. Esau contemplates murder, so Rebekah convinces Isaac to send
+to his uncle Laban, after extracting a promise not to marry a Hittite
+woman. Esau, discovers that marrying a Cananaite would displease his
+father and mother, so he does just that.
+
+The lesson here is that God is fully capable of carrying out His will
+without our help. He still loves His people - in spite of our character
+flaws, but he does not remove the consequences of our bone headed plans.
 
 
 % For bibtex...

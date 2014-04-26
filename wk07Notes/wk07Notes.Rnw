@@ -7,10 +7,10 @@
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
-\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 7 Notes} 
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 7 Notes -- Abram's long wait for the promised heir Gen~16--20} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
-\newcommand{\theDate}{May 11, 2014}
+\newcommand{\theDate}{April 27, 2014}
 
 % automatic hyperlinks in document
 \usepackage[pagebackref=true]{hyperref}
@@ -65,7 +65,189 @@ require(xtable)
 \end{center}
 
 \section{Introduction}
+Last class we ended with God's response in Gen~15 to Abram's
+concern for God's honor as Abram dealt with Melchizedek and the
+king of Sodom. You will recall that there were three aspects
+to this response:
+\begin{itemize}
+  \item God promises Abram a son: $^{4}$\ldots ``This man shall
+  not be your heir; your very own son shall be your heir.''
+  $^{5}$And he brought him outside and said, ``Look toward heaven, and
+  number the stars, if you are able to number them.'' Then he said
+  to him, ``So shall your offspring be.'' [Ge~15:4--5, ESV]
+  \item God establishes a covenant with Abram while Abram is 
+  paralyzed, indicating that God would do all the work. The symbolism
+  is that God staked His reputation on His willingness and ability
+  to deliver (Gen~15:7--20).
+  \item God tells Abram of His certain plan for Israel to serve 400 years
+  in bondage in Egypt (Gen~15:13).
+\end{itemize}
 
+\red{Q:} Who has all the ``action items'' on this to-do list?
+
+\red{Q:} What expectations does this imply for Abram and Sarai?
+
+Let's admit that we humans are control freaks. Waiting patiently
+is not our strength. In Gen~16--20 we follow Abram and Sarai as
+they wait years for God to fulfil His promise for His glory.
+Gen~21:1 records the birth of Isaac, ending the long wait.
+
+
+\section{Sarai's foolish plan Gen~16}
+
+\red{Note:} Get someone to read \red{Gen~16:1--3}
+
+\red{Q:} What do you think was going through Sarai's mind?
+
+Tick. Tick. Tick. Sarai has no trouble reading her biological
+clock. Sarai notices her old age and decides God needs some help.
+She devises a plan: Use her servant Hagar as a proxy.
+
+\red{Q:} What do you think was going through Abram's mind?
+
+My wife is suffering. The Lord uses means?
+
+\red{Q:} How does this differ from Abram's response to the king
+of Sodom?
+
+Recall Abram's concern for how his action could affect
+God's honor regarding Abram's dealings with the loot from
+the destruction of the kings.
+
+\red{Note:} Get someone to read \red{Gen~16:4--10}
+
+Of course, this goes terribly wrong from the beginning.
+
+\red{Q:} What thoughts and emotions do you think the text would have
+us conclude produced the actions from each of the people here?
+
+Sarai gets jealous. She blames Abram. Abram wimps out and tells her to
+deal with her servant as she pleases (Gen~16:6). Sarai treats
+Hagar harshly, so Hagar flees, taking Ishmael. An angel of the Lord
+interceeds, tells Hagar that her son would be blessed, and to return
+and submit to her master. Hagar obeys and returns, yet the family
+dynamics remain disfunctional.
+
+\red{\emph{N.B.}} The entire Israel/Arab
+emnity may be traced to Sarai's bone headed plan\ldots
+
+\section{The covenant of circumcision: Gen~17}
+
+God appears to Abram at age 99 and institutes the covenant of
+circumcision.
+
+\subsection{The interaction with Abram -- Gen~17:1--14}
+\red{Note:} Get someone to read \red{Gen~17:1--14}
+\begin{itemize}
+  \item God sets an \emph{expectation} of Abram: to walk before Him and
+  be blameless. (Gen~17:1-2)\\ \red{Q:} Do you think that this is a \emph{condition}
+  of the covenant? Why or why not? Hint: ESV has connector `that I may
+  make', NET has `Then I will confirm', NAS95 has 'I will', KJV has
+  'and I will".
+  \begin{quotation}
+  Following the imperative, the cohortative indicates consequence.
+  If Abram is blameless, then the LORD will ratify the covenant.
+  Earlier the LORD ratified part of his promise to Abram (see Gen
+  15:18–21), guaranteeing him that his descendants would live in
+  the land. But the expanded form of the promise, which includes
+  numerous descendants and eternal possession of the land, remains
+  to be ratified. This expanded form of the promise is in view
+  here (see vv. 2b, 4–8). [NET notes]
+  \end{quotation}
+  \item God renames Abram (``exalted father'') to Abraham (``father of
+  a mutltitude'').
+  \item God promises him physical descendants and everlasting
+  posession of the land of Canaan (Gen~17:1--8)
+  \item God institutes circumcison of all adult males and all male
+  children on the eithth day as a sign of accepting the covenant
+  (Gen~17:9--14)
+\end{itemize}
+
+\subsection{Concerning Sarai and Isaac -- Gen~17:15--21}
+
+\begin{itemize}
+  \item God renames Sarai to Sarah. (Gen~17:15). Both mean ``princess''
+  or ``queen''. One interesting note: According to the Enhanced
+  Brown-Driver-Briggs Hebrew-English lexicon, Sarai is also the name of a barren mountain. (Gen~17:16--20)
+  \item God promises the birth of Isaac (specifying the name, which
+  means `he laughs') to Sarai (Gen~17:19) noting that Isaac will be
+  born in a year (Gen~17:21) and will have 12 sons of his own 
+  (Gen~17:20).
+  \item God explicitly states that the covenant is with Isaac, not
+  Ishmael (Gen~17:21) \red{Note:} God makes the distinction here
+  between the child of promise -- Isaac and the child of the 
+  flesh -- Ishmael. We saw that the apostle Paul develops this in the
+  book of Romans. Note the implied symbolism of circumcision 
+\end{itemize}
+
+\subsection{Abraham responds in faith -- Gen~17:22--27}
+
+Abraham immediately obeys God.
+
+\section{Sarah laughs at God Gen~18}
+
+\red{Note:} Get someone to read \red{Gen~18:12--14}
+
+God sends three messengers to Abraham. He serves them a meal and
+they ask to see Sarah. They tell her that she will bear a son in her
+old age within a year. She laughs. They ask her if anything is too
+hard for God? She denies laughing.
+
+\section{Abraham intercedes for Sodom Gen~18:16--23}
+God informs Abraham of His plan to destroy Sodom. Abraham bargains
+for Sodom, getting God to agree to spare the city if ten righteous
+men could be found. This tells us much about Abraham's tender heart
+and relationship with God.
+
+\section{God rescues Lot and his daughters from Sodom Gen~19}
+
+This is well known to us. The point we should consider is Lot's
+acceptance of sin as ``normal''. Perhaps we should ask ourselves
+of we are a bit too comfortable with sin or do we see it as God
+does - depravity that leads to eternal death unless atoned for
+by the blood of Christ.
+
+\section{Dealing with Abimilech Gen~20}
+We note that Abraham pulls the same subterfuge with Abimilech
+as he did with Pharoah - presenting Sarah as his sister, not 
+his wife. The interesting difference here is God's intercession
+for Abimilelch
+
+\begin{quotation}
+  $^{3}$But God came to Abimelech in a dream by night and said to him,
+  ``Behold, you are a dead man because of the woman whom you have taken,
+  for she is a man’s wife.'' $^{4}$Now Abimelech had not approached her.
+  So he said, ``Lord, will you kill an innocent people? $^{5}$Did he not
+  himself say to me, `She is my sister'? And she herself said, `He is my
+  brother.' In the integrity of my heart and the innocence of my hands
+  I have done this.'' $^{6}$Then God said to him in the dream, ``Yes, I
+  know that you have done this in the integrity of your heart, and it
+  was I who kept you from sinning against me. Therefore I did not let
+  you touch her. $^{7}$Now then, return the man’s wife, for he is a
+  prophet, so that he will pray for you, and you shall live. But if
+  you do not return her, know that you shall surely die, you and all
+  who are yours.'' [Ge 20:3--7, ESV]
+\end{quotation}
+
+God's dealing with all parties here reminds me of
+Psalm 103
+\begin{quotation}
+  $^{6}$The LORD works righteousness and justice for all who are oppressed. 
+  $^{7}$He made known his ways to Moses, his acts to the people of Israel. 
+  $^{8}$The LORD is merciful and gracious, slow to anger and abounding
+  in steadfast love. 
+  $^{9}$He will not always chide, nor will he keep his anger forever. 
+  $^{10}$He does not deal with us according to our sins, nor repay us
+  according to our iniquities. 
+  $^{11}$For as high as the heavens are above the earth, 
+  so great is his steadfast love toward those who fear him; 
+  $^{12}$as far as the east is from the west, 
+  so far does he remove our transgressions from us. 
+  $^{13}$As a father shows compassion to his children, 
+  so the LORD shows compassion to those who fear him. 
+  $^{14}$For he knows our frame; he remembers that we are dust. 
+  [Ps 103:6--14, ESV]
+\end{quotation}
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")

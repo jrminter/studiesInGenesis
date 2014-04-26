@@ -7,7 +7,8 @@
 
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
-\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ Week 10 Notes} 
+\newcommand{\theTitle}{Studies in Genesis from the perspective of Christ
+Week 10 Notes -- Joseph (Gen~37-50)} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
 \newcommand{\theDate}{May 25, 2014}
@@ -66,6 +67,58 @@ require(xtable)
 
 \section{Introduction}
 
+The life of Joseph is an example where God's purpose is worked out though
+some terrible circumstances. God uses these to mold Joseph's character
+and save His people from famine, a plan God had revealed to Abram in
+Gen~15:13.
+
+\section{Joseph's youth: Gen~37:1-11}
+
+\begin{itemize}
+  \item We first encounter Joseph at age 17, tending his father's 
+  flock with his brothers and bring a bad report (tattletale) [Gen~37:2]
+  \item We discover that Jacob loved Joseph more than his other sons
+  since he was the son of his old age, and showed it with the
+  gift of a many-colored coat. As a result, Joseph's brothers
+  detested him [Gen~37:3--4]. Wouldn't you think Jacob would have learned
+  from his own school of hard knocks that such favoritism doesn't end
+  well\ldots.
+  \item Joseph has dreams of His rise to greatness and unwisely shares
+  them with his brothers [Gen~37:5-11]
+\end{itemize}
+
+\section{The plot against Joseph Gen~37:12-36}
+\begin{itemize}
+  \item Jacob sends Joseph to his brothers near Shechem and to bring
+  him word. (Gen~37:12--14) Is Jacob really this clueless???
+  \item The brothers see him from afar and conspire to kill him.
+  (Gen~37:18--20)
+  \item Reuben shows a concience and wants to spare Joseph's life,
+  but instead toss him into a pit, hoping to rescue him
+  later(Gen~37:21--22)
+  \item They do this and stop to eat, where the notice a passing
+  caravan (providence is remarkable\ldots) (Gen~37:23--25)
+  \item Judah has the bright idea to sell him into slavery and
+  make a profit, and they do -- aparently without Reuben's
+  knowledge. (Gen~37: 26--28)
+  \item Reuben returns later and finds Joseph gone, so the other
+  brothers continue the ruse, slaughter a goat and tear Joseph's
+  robe and stain it with blood, taking it to Jacob asking him to
+  identify it (nice sons). Jacob draws the expected conclusion and
+  is distraught. (Gen~37:29--36)
+  \item The Midianites sell Joseph in Egypt to Potiphar, the captain
+  of Pharoah's guard.
+\end{itemize}
+
+\section{Joseph and Potiphar's wife Gen~39}
+
+\section{Joseph in prison Gen~40}
+
+\section{Joseph intepret's Pharoah's dream Gen~41}
+
+\section{Joseph and his family Gen~41}
+
+\section{Joseph after his father's death Gen~50}
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
