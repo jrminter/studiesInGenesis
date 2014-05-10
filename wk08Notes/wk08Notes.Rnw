@@ -8,7 +8,7 @@
 %% general metadata:
 \newcommand{\theAuthor}{John Minter}
 \newcommand{\theTitle}{Studies in Genesis from the perspective of Christ
-Week 8 Notes -- Isaac and Ishmael Gen~21-22} 
+Week 8 Notes -- Isaac and Ishmael Gen~21-25:11} 
 \newcommand{\theSubject}{Genesis} 
 \newcommand{\theKeywords}{Sunday School, Genesis, Northgate}
 \newcommand{\theDate}{May 11, 2014}
@@ -67,11 +67,24 @@ require(xtable)
 
 \section{Introduction}
 
-Here we briefly examine the family dynamics, focusing most of our
-time on the sacrifice of Isaac.
+Last time we saw the terrible family dynamics caused by Sarah's plan
+which caused the birth of Ishmael to Abraham and Hagar. Here we see the
+birth of Isaac --  the son of promise -- and briefly examine the family
+dynamics, focusing most of our time on the sacrifice of Isaac.
+Next time we will look at the next generation -- Jacob and Esau -- from
+Gen 25:12 -- Gen 35.
 
-\subsection{The birth of Isaac Gen~21:1-7}
+\subsection{The birth of Isaac Gen~21:1--7}
+
 God fulfils his promise at the specified time\ldots
+
+\red{Note:} Get someone to read \red{Gen~21:1--7}
+
+\red{Q:} What do Abraham's actions at Isaac's birth say about his faith?
+
+\red{Q:} Remembering that God instructed Abraham and Sarah to name this
+child Isaac -- ``He laughs'' -- what how should we interpret Sarah's
+response at his birth?
 
 \subsection{Family Feud Gen~21:8--21}
 Jealousy erupts again when Sarah sees Ishmael laughing (Gen~21:9). She
@@ -79,31 +92,54 @@ asks Abraham to banish Hagar and Ishmael (Gen~21:10) Abraham is displeased
 (Gen~21:11) but God instructs Abraham to do so because Isaac is the son
 of the covenant (Gen~21:12). God says he will make a nation out of
 Ishmael as well (Gen~21:13), so Abraham banishes Hagar and Ishmael
-(Gen~21:14.) God makes certain they are cared for (Gen~21:15-21)
+(Gen~21:14.) God makes certain they are cared for (Gen~21:15-21).
+
+\red{Q:} What continuing consequences do you see of Sarah's plan?
+
+\red{Q:} How does God use them to further His will and show His
+righeousness?
+
 
 \subsection{Abraham deals righteously with Abimelech Gen~21:22-34}
 Abimilech realizes that Abraham is blessed by God (Gen~21:22). The
 two men make a covenant to deal kindly with one another (Gen~21:23--24).
-They handle a disput well (Gen~21:25--32). Abraham continues to worship
-the Lord (Gen~21:33-34)
+They handle a dispute well (Gen~21:25--32). Abraham continues to worship
+the Lord (Gen~21:33-34).
+
+\red{Q:} How does Abraham demonstrate his faith in this section?
+
+\red{Q:} What effects did it have on Abimelech? What lessons are there
+for us here?
 
 \subsection{The sacrifice of Isaac Gen~22}
 
+\red{Note:} Get someone to read \red{Gen~22:1--19}
+
 \begin{itemize}
-  \item The section is framed as a test (Gen~22:1)
+  \item The section is framed as a test (Gen~22:1).
   \item God asks the unthinkable - to sacrifice the child of
-  promise (Gen~22:2)
-  \item Abraham obeys immediately (Gen~22:3--5)
+  promise (Gen~22:2).
+  \item Abraham obeys immediately (Gen~22:3--5).
   \item Isaac carries the wood, Abraham the knife (Gen~22:6)
   \item Isaac questions Abraham about the lack of a sacrifice,
   Abraham responds, ``God will provide for himself the lamb for
-  a burnt offering, my son.'' [Ge 22:8]
+  a burnt offering, my son.''  The NET notes tell us, ``The Hebrew
+  is literally `will see for himself.' The construction means
+  `to look out for; to see to it; to provide.' ''
   \item Abraham prepares to obey and is stayed by an angel, noting
   a ram in the thicket, which Abraham sacrifices (Gen~22:13--14)
-  \item Abraham names the place ``The Lord will see/provide
-  (\emph{ra ah})''
+  \item Abraham names the place ``The Lord (\emph{Yaweh}) will
+  see/provide \\  (\emph{Yi ra ah})''.
+  
+  \begin{minipage}[c]{\textwidth}
+    \centering
+      \includegraphics[width=3.0in]{../common/YahwehYirah.png}
+  \end{minipage}
   \item God commends Abraham for his faith and trust (Gen~22:15--18)
 \end{itemize}
+
+\red{Q:} Before we examine the Heb 11 commenatry on this, what
+observations would you like to share?
 
 \subsection{Commentary from Heb 11}
 
@@ -116,6 +152,36 @@ to raise him from the dead, from which, figuratively speaking, he
 did receive him back. [Heb 11:17--19, ESV]
 \end{quotation}
 
+\section{Abraham chooses a wife for Isaac (Gen 24)}
+
+\begin{itemize}
+\item Abraham did not want Isaac marrying a Canaanite woman (Gen 24:3).
+\item He gets his servant to pledge to find a wife for Isaac from among
+his relatives (Gen 24:4).
+\item The servant makes the journey and finds Rebekah, the daughter of
+one of Abraham's nephews (Gen 24:15).
+\item The servant convinced Rebekah's father, Bethuel, and brother,
+Laban, to pledge her to Isaac (Gen 24:34-51).
+\item The servant returns with Rebekah in time to
+comfort Isaac over Sarah's death (24:67).
+\end{itemize}
+\section{The death of Abraham (Gen 25)}
+\begin{itemize}
+\item Abraham married Keturah after Sarah's death (Gen 25:1) and had other 
+sons.
+
+\item He gave gifts to the sons of Keturah and his concubines while he
+was living (Gen 25:6).
+
+\item He left all the inheritance to Isaac (Gen 25:5).
+
+\item Abraham died at age 175 (Gen 25:7). Isaac and Ishmael buried him
+with Sarah in the cave of Machpelah near Mamre (Gen 25:9).
+
+\item After Abraham's death, God blessed Isaac (Gen 25:11).
+The scriptures do not report further contact
+or strife between Isaac and his brothers.
+\end{itemize}
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
 \bibliography{../common/theBib}
