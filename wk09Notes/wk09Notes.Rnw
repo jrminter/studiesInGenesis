@@ -75,13 +75,70 @@ again see why we need a Savior.
 \section{Isaac's family Gen~25:19--28}
 
 Issac's family was what we would call dysfunctional. First, we see the
-birth of twins, Jacob and Esau. For His own purposes (Rom 9:10--12),
-God decreed that the younger (Jacob) would serve the older (Esau), 
-reversing the cultural norm. The two sons had very different personalities,
-Esau was a hunter, frequently bringing his father game. Jacob was more
-of a homebody. Isaac made it clear that Esau was his favorite, while
-Rebekah made it clear that Jacob was hers (Gen~25:28). This would not
-end well.
+birth of twins, Jacob and Esau.
+
+\red{Note:} Get someone to read \red{Gen~25:19--28}
+
+\subsection{Dealing with barreness Gen~25:21}
+
+Being a son born to Sarah in old age, Isaac had probably heard the story
+of his promised birth many times. So when Rebekah was childless, He knew
+the correct response was to pray. So God answered his prayer with twins.
+
+\subsection{Dealing with a difficult pregnancy Gen~25:22--26}
+
+Rebekah had a difficult pregnancy. It felt like the twins were fighting
+\emph{in utero}. She was stuggling. The NET translates it, ``If it is
+going to be like this, I’m not so sure I want to be pregnant!'' to try
+and capture her dispair. Again, she knew thee correct response was to
+seek guidance from God in prayer. God answered with a prophesy, probably
+\textbf{not} the answer she wanted to hear. God is \textbf{not obligated}
+to give us the answer we wanted. 
+
+\begin{quote}
+Two nations are in your womb, \\  
+and two peoples from within you shall be divided; \\ 
+the one shall be stronger than the other, \\ 
+the older shall serve the younger. [Ge~25:23, ESV]
+\end{quote}
+\clearpage
+Some observations:
+
+\begin{itemize}
+\item God was fully aware of the discord that would arise between
+the two brothers.
+\item He was fully aware of the discord that would arise between
+the nations that would grow from their decendants.
+\item God was not bound to observe human inheritiance traditions
+in His plan.
+\item God would accomplish His plan despite the problems caused by
+really bad family dynamics.
+\end{itemize}
+
+\subsection{Favoritism makes things worse Gen~25:27--28}
+
+The two boys had very different personalities. Rebekah was drawn to
+Jacob's personality; Isaac to Esau's. This favoritism made things
+worse -- especially when it led to the sin of deception.
+
+\red{Q:} How can parents avoid problems from favoritism when they are
+naturally more comfortable with one child's personality.
+
+\subsection{Paul's commentary on God's choice: Rom 9:10--14}
+
+\begin{quote}
+$^{10}$And not only so, but also when Rebekah had conceived children by
+one man, our forefather Isaac, $^{11}$though they were not yet born and
+had done nothing either good or bad--in order that God’s purpose of
+election might continue, not because of works but because of him who
+calls -- $^{12}$she was told, ``The older will serve the younger.''
+$^{13}$As it is written, ``Jacob I loved, but Esau I hated.'' 
+$^{14}$What shall we say then? Is there injustice on God’s part? By
+no means! [Ro~9:10--14, ESV]
+\end{quote}
+
+\red{Q:} In what way did God ``hate'' Esau? Any lightning strikes
+recorded? Famine? Drowned is a spectacular miracle? 
 
 \section{Esau sells his birthright Gen~25:29--31}
 
