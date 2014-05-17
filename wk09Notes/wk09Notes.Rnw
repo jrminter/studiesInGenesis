@@ -69,17 +69,18 @@ require(xtable)
 
 We will see family dynamics at their worst. We will see
 God deal with His people, despite their faults and
-again see why we need a Savior.
+see again why we need a Savior.
 
+Next week we conclude with Joseph (\red{Gen~37--50}).
 
 \section{Isaac's family Gen~25:19--28}
 
 Issac's family was what we would call dysfunctional. First, we see the
 birth of twins, Jacob and Esau.
 
-\red{Note:} Get someone to read \red{Gen~25:19--28}
+\red{Note:} Get someone to read \red{Gen~25:19--28}.
 
-\subsection{Dealing with barreness Gen~25:21}
+\subsection{Dealing with barrenness Gen~25:21}
 
 Being a son born to Sarah in old age, Isaac had probably heard the story
 of his promised birth many times. So when Rebekah was childless, He knew
@@ -88,9 +89,9 @@ the correct response was to pray. So God answered his prayer with twins.
 \subsection{Dealing with a difficult pregnancy Gen~25:22--26}
 
 Rebekah had a difficult pregnancy. It felt like the twins were fighting
-\emph{in utero}. She was stuggling. The NET translates it, ``If it is
+\emph{in utero}. She was struggling. The NET translates it, ``If it is
 going to be like this, I’m not so sure I want to be pregnant!'' to try
-and capture her dispair. Again, she knew thee correct response was to
+and capture her despair. She knew the correct response was to
 seek guidance from God in prayer. God answered with a prophesy, probably
 \textbf{not} the answer she wanted to hear. God is \textbf{not obligated}
 to give us the answer we wanted. 
@@ -99,7 +100,7 @@ to give us the answer we wanted.
 Two nations are in your womb, \\  
 and two peoples from within you shall be divided; \\ 
 the one shall be stronger than the other, \\ 
-the older shall serve the younger. [Ge~25:23, ESV]
+the older shall serve the younger. [Gen~25:23, ESV]
 \end{quote}
 \clearpage
 Some observations:
@@ -108,8 +109,8 @@ Some observations:
 \item God was fully aware of the discord that would arise between
 the two brothers.
 \item He was fully aware of the discord that would arise between
-the nations that would grow from their decendants.
-\item God was not bound to observe human inheritiance traditions
+the nations that would grow from their descendants.
+\item God was not bound to observe human inheritance traditions
 in His plan.
 \item God would accomplish His plan despite the problems caused by
 really bad family dynamics.
@@ -134,7 +135,7 @@ election might continue, not because of works but because of him who
 calls -- $^{12}$she was told, ``The older will serve the younger.''
 $^{13}$As it is written, ``Jacob I loved, but Esau I hated.'' 
 $^{14}$What shall we say then? Is there injustice on God’s part? By
-no means! [Ro~9:10--14, ESV]
+no means! [Rom~9:10--14, ESV]
 \end{quote}
 
 \red{Q:} In what way did God ``hate'' Esau? Any lightning strikes
@@ -144,27 +145,139 @@ recorded? Famine? Drowned is a spectacular miracle?
 
 Returning exhausted from hunting, Esau finds Jacob cooking some stew.
 Esau asks for some, Jacob offers to trade stew for Esau's birth right.
-The text concludes that Esau despised his birthright. It leaves us to
-conclude on our own that Jacob thought God could use a bit of help in
-fulfilling his prophesy.
+The text concludes that Esau despised his birthright.
 
-\section{Deception at Isaac's death Gen~27}
-Near death, Isaac calls his favorite son Esau and asks him to prepare
-stew and then receive Isaac's final blessing. Rebekah overhears, calls
-Jacob, helps him prepare stew and disguises him to make him look more
-like Esau and sends him to be blessed. Rebekah seems to think God need
-help in fulfilling his prophesy too. Jacob gets the blessing, but Esau
-finds out and is furious, as expected, noting that Jacob is a deceiver
-by nature. Esau contemplates murder, so Rebekah convinces Isaac to send
-to his uncle Laban, after extracting a promise not to marry a Hittite
-woman. Esau, discovers that marrying a Cananaite would displease his
-father and mother, so he does just that.
+\red{Q:} Jacob must have been aware of the prophecy concerning his
+future. What do his actions lead us to conclude about his character?
+
+\red{Q:} What do Jacob's actions say about his view of God's ability
+to fulfill His prophesy?
+
+It leaves us to conclude on our own that Jacob thought God could use a
+bit of help in fulfilling his prophesy. Reminiscent of Sarai\ldots
+How often do we try to ``help God''?
+
+\section{Deception at Isaac's death Gen~27--28}
+
+\red{Note:} Get somebody to read \red{Gen 27:1--13}.
+
+We know this will not end well\ldots Let's unpack it.
+
+Near death, Isaac calls his son Esau and asks him to prepare
+stew and then receive Isaac's final blessing (\red{27:1-4}). 
+
+\red{Q:} What messages do Isaac's actions communicate to his sons?
+
+Rebekah overhears, calls Jacob, helps him prepare stew and disguises him
+to make him look more like Esau and sends him to be blessed
+\red{(27:5--30)}.
+
+\red{Q:} What do these actions imply about the character of both
+Jacob and Rebekah?
+
+Rebekah seems to think God need help in fulfilling his prophesy too.
+
+
+Jacob gets the blessing, but Esau finds out and is furious, as expected,
+noting that Jacob is a deceiver by nature (\red{27:30--41}). Anybody
+surprised?
+
+Esau contemplates murder, so Rebekah convinces Isaac to send to his
+uncle Laban, after extracting a promise not to marry a Hittite woman.
+Esau, discovers that marrying a Canaanite would displease his father
+and mother, so he does just that (\red{27:41--28:9}).
+
+\red{Q:} What similarities do you see between Sarah's plan with Hagar
+and Rebekah plan regarding the inheritance? What lessons would the
+text have us draw?
 
 The lesson here is that God is fully capable of carrying out His will
 without our help. He still loves His people - in spite of our character
 flaws, but he does not remove the consequences of our bone headed plans.
 
+\section{Jacob's dream -- Gen 28:10--20}
 
+\red{Note:} Get somebody to read \red{Gen~28:10--20}.
+
+God reveals himself to Jacob and Jacob gets the message. God loves and
+works through sinners. Have we seen anything noble in Jacob's character?
+God loves us and works in our lives \red{in spite} of our nature, not
+because of it\ldots. This is grace and mercy.
+
+\section{Jacob learns about deception -- Gen 29--30}
+
+\begin{itemize}
+\item Jacob works for Laban and falls in love with Laban's daughter, 
+Rachel (\red{Gen 29:18}). Jacob makes a deal to serve Laban for 7 years 
+as a dowry for Rachel (\red{Gen 29:19--20}).
+\item Jacob and Rachel had planned to leave after the wedding, On the 
+wedding night Laban pulls a switcheroo and gives his older daughter, Leah, 
+to Jacob (\red{Gen 29:21--24}). Somehow, Jacob doesn't notice until morning and is angry at Laban's deception (\red{Gen 29:25}).
+\item Laban makes a lame excuse about a tradition that older daughters 
+married first, but is willing to let Jacob serve another 7 years for Rachel.
+\item Jacob agrees and is permitted to marry Rachel immediately. She is 
+the ``favorite wife'' (\red{Gen 29:28--30}).
+\item God shows His displeasure by making Rachel barren and giving Leah
+children. Rachel tries Sarah's plan by giving her servant, Bilhah,
+to Jacob as a proxy. It gets ugly.
+\item Finally, Rachel bears Joseph  (\red{Gen 30:24}).
+\item Jacob leaves Laban with some deception
+(\red{Gen 30:37--43}) and flees. Rachel had stolen her father's 
+household idols (\red{Gen 31:32}) and is caught.
+\item Jacob makes peace with Laban (\red{Gen 31:51}) making an oath in 
+the name of the Lord.
+\end{itemize}
+
+These people don't seem to learn. Like us\ldots
+
+\section{Reunion with Esau Gen 32--35}
+
+\red{Note:} Get somebody to read \red{(32:1--12)}
+
+\begin{itemize}
+
+\item Jacob decides to go home and rightly fears Esau, so he sends
+messengers to try to prepare for peace (\red{Gen 32:3}).
+
+\item Messengers from God tell Jacob that Esau is coming to meet him,
+accompanied by 400 men. Jacob is rightly terrified and divides
+his camp in two to prevent total slaughter (\red{Gen 32:6-9}).
+
+\item Jacob prays to the Lord, confessing his unworthiness, recounting
+God's call to return, and asking for deliverance (\red{Gen 32:9-12}).
+
+\end{itemize}
+
+\subsection{Wrestling with God -- Gen 32:22-32}
+
+The text describes an unusual theophany, where Jacob wrestles all night
+with God in human form. Finally, God pushes Jacob's hip out of joint.
+Jacob asks for a blessing, and is renamed Israel. He at least realized
+that he had seen God and lived (\red{Gen 32:30}). Perhaps this is a
+metaphor for his life -- God has blessed him in spite of his actions.
+
+\subsection{Meeting with Esau -- Gen 33:1--18}
+
+Morning comes and so does Esau. And the result is totally unexpected.
+Esau receives Jacob lovingly, welcomes him, and offers to assist. 
+Truly a work of grace -- totally unmerited.
+
+\section{Jacob's Final Blessing -- Gen 35:1--15}
+
+\begin{itemize}
+\item God commands Jacob to build an altar in Bethel and put away idols.
+Jacob obeys (\red{Gen 35:1--4}).
+\item God causes the surrounding people to spare Jacob and his family
+because of his association  with God (\red{Gen 35:5--8}).
+
+\red{Note:} Get somebody to read \red{(35:9--15)}
+
+\item God again appears to Jacob, confirms his name as Israel and
+confirms His plan for Jacob's descendants. Note again, that God is
+clear that it is all about \emph{His purpose.}
+\end{itemize}
+
+Next week we conclude with Joseph (\red{Gen~37--50}).
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
 \bibliography{../common/theBib}
