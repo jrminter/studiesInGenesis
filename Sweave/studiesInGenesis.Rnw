@@ -40,12 +40,12 @@ pdfkeywords={\theKeywords}
 %
 
 \begin{document}
-\SweaveOpts{concordance=TRUE}
+%\VignetteEngine{knitr::knitr}
 
 %
 % Set up Sweave...
 %
-<<echo=F,results=hide>>=
+<<echo=F,results="hide">>=
 # A hidden code chunk
 # start with a clean environment
 rm(list=ls())
@@ -57,7 +57,7 @@ Sys.setenv(TEXINPUTS=str.wd)
 Sys.setenv(BIBINPUTS=str.wd)
 Sys.setenv(BSTINPUTS=str.wd)
 # make sure needed packages & functions are loaded
-require(xtable)
+library(xtable)
 @
 
 %% this is a very simple title w/o make title
@@ -140,7 +140,7 @@ failure to consistently follow God and the need for Christ for any hope.
 \newpage
 
 
-<<echo=F,results=hide>>=
+<<echo=F,results="hide">>=
 # A hidden code chunk
 # start with a clean environment
 rm(list=ls())
@@ -467,7 +467,7 @@ We note that Noah is the tenth generation from Adam. A table of
 lifespans is given below.
 
 
-<<echo=FALSE, results=tex>>=
+<<echo=FALSE, results='asis'>>=
 digits <- 0
 names(data) <- c("Generation", "Name", "Lifespan")
 print(xtable(data, caption = "Generations from Adam to Noah",
