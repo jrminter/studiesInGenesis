@@ -67,33 +67,47 @@ library(xtable)
 
 \section{Introduction}
 
-The life of Joseph is an example where God's purpose is worked out though
-some terrible circumstances. God uses these to mold Joseph's character
-and save His people from famine, a plan God had revealed to Abram in
-Gen~15:13.
+We end our study by examining the life of Joseph. This is an example
+where God uses some terrible circumstances to accomplish His purpose.
+God uses these to both mold Joseph's character and to save His people 
+from famine, a plan God had revealed to Abram in Gen~15:13. The
+parallels to Christ are clear.
 
-\red{Note:} Get someone to read \red{Gen~15:13--16}.
+Before we examine these events, we do well to remind ourselves of God's 
+stated plan.
+
+\red{Note:} Read \red{Gen~15:13--16}.
 
 \begin{quote}
 \textbf{$^{13}$}Then the LORD said to Abram, ``Know for certain that
 your offspring will be sojourners in a land that is not theirs and will 
 be servants there, and they will be \red{afflicted} for four
-hundred years. 
-\textbf{$^{14}$}But I will bring judgment on the nation that they serve, 
-and afterward they shall come out with great possessions.
-\textbf{$^{16}$}As for you, you shall go to your fathers in peace; you 
-shall be buried in a good old age. \textbf{$^{16}$}And they shall come 
-back here in the fourth generation, for the \red{iniquity} of the
-Amorites is not yet complete.''
+hundred years. \textbf{$^{14}$}But I will bring judgment on the nation 
+that they serve, and afterward they shall come out with great
+possessions. \textbf{$^{16}$}As for you, you shall go to your fathers in 
+peace; youshall be buried in a good old age. \textbf{$^{16}$}And they 
+shall come back here in the fourth generation, for the \red{iniquity} of 
+the Amorites is not yet complete.''
 \end{quote}
 
-We must ask ourselves, ``What lesson is God trying to teach
-us through this object lesson?'' May I suggest that it is for
-us to see sin as He does and understand our need for His deliverance.
-God uses the actions of sinful men to teach the needed lessons to
-those He calls to serve Him.
+As we study Joseph, we must ask ourselves, ``What lesson is God trying
+to teach us through these events?''
+
+\red{My hypothesis:} God desires us to see sin as He does and 
+understand our need for His deliverance. God uses the actions of sinful 
+men to teach the needed lessons to those He calls to serve Him. God's
+plan is holy and He is just in punishing the sin of those whose actions
+he uses.
 
 \section{Joseph's youth (the ``annoying little brother'': \\  Gen~37:1-11}
+
+When we first encounter Joseph, he is the ``annoying little brother,''
+the beloved first son of Rachel. Recall that Rachel died giving birth
+to Benjamin (Gen~35:16--18). With her dying breath, Rachel called her
+son ``\emph{Ben-oni} (son of my sorrow)'' but Jacob called him 
+``\emph{Benjamin} (son of my right hand).'' All of Jacob's other sons
+were keenly aware that these two ``little princes'' were daddy's
+favorites.
 
 \begin{itemize}
   \item We first encounter Joseph at age 17, tending his father's 
@@ -102,7 +116,7 @@ those He calls to serve Him.
   since he was the son of his old age, and showed it with the
   gift of a many-colored coat. As a result, Joseph's brothers
   detested him [Gen~37:3--4]. \vskip 1pt
-  Wouldn't you think Jacob would have learned
+  \red{Q:} Wouldn't you think Jacob would have learned
   from his own school of hard knocks that such favoritism doesn't end
   well\ldots.
   \item Joseph has dreams of His rise to greatness and unwisely shares
@@ -115,24 +129,27 @@ those He calls to serve Him.
 \begin{itemize}
   \item Jacob sends Joseph to his brothers near Shechem and to bring
   him word. (Gen~37:12--14) \vskip 1pt
-  Is Jacob really this clueless???
+  \red{Q:} Is Jacob really this clueless???
   \item The brothers see him from afar and conspire to kill him.
   (Gen~37:18--20)
-  \item Reuben (the firstborn) shows a concience and wants to spare
+  \item Reuben (the firstborn) shows a conscience and wants to spare
   Joseph's life, but instead toss him into a pit, hoping to rescue him
-  later (Gen~37:21--22)
-  \item They do this and stop to eat, where the notice a passing
-  caravan (\red{providence is remarkable\ldots}) (Gen~37:23--25)
-  \item Judah (the ringleader) has the bright idea to sell him into 
+  later. This may be because Rueben knew he would have to give account
+  to Jacob. (Gen~37:21--22)
+  \item The brothers toss Joseph into the pit and stop to eat, when they
+  notice a passing caravan (\red{providence is remarkable\ldots})
+  (Gen~37:23--25)
+  \item Judah (the ringleader) has the bright idea to sell Joseph into 
   slavery and make a profit, and they do -- apparently without Reuben's
-  knowledge. (Gen~37: 26--28)
+  knowledge. (Gen~37:26--28) \vskip 1pt
+  \red{Note:} Get someone to read \red{Gen~37:29--36}.
   \item Reuben returns later and finds Joseph gone, so the other
   brothers continue the ruse, slaughter a goat and tear Joseph's
   robe and stain it with blood, taking it to Jacob asking him to
   identify it (nice sons). Jacob draws the expected conclusion and
-  is distraught. (Gen~37:29--36)
+  is distraught. (Gen~37:29--35)
   \item The Midianites sell Joseph in Egypt to Potiphar, the captain
-  of Pharoah's guard.
+  of Pharaoh's guard. (Gen~37:36)
 \end{itemize}
 
 \section{Joseph and Potiphar's wife Gen~39}
@@ -152,6 +169,8 @@ Potiphar believes his wife and throws Joseph in prison. No
 good deed goes unpunished\ldots. But note this in no way
 shackles God. (Gen~39:20--23).
 
+\red{Note:} Get someone to read \red{Gen~39:20--23}.
+
 \red{Q:} What would the text have us conclude about Joseph's
 character and demeanor in prison?
 
@@ -161,13 +180,20 @@ Joseph encounters two prisoners with dreams in prison. God explains
 the meaning to Joseph and he speaks honestly. He is right, but is
 forgotten to languish in prison until God's time is right.
 
-\section{Joseph inteprets Pharaoh's dream Gen~41}
+\section{Joseph interprets Pharaoh's dream Gen~41}
 
 \red{Note:} Get someone to read \red{Gen~41:1--8}.
+
+Pharaoh has a disturbing dream and his astrologers are stumped. God
+gives Joseph the interpretation and paves the way for his rise to
+power. \red{Note:} This is the difference between ``luck'' and
+``divine providence.''
 
 \red{Note:} Get someone to read \red{Gen~41:25--40}.
 
 Note how God puts Joseph in the position to save many lives.
+
+\red{Comments?}
 
 \section{Joseph and his family Gen~41}
 
@@ -182,13 +208,19 @@ perspective on his ordeal (Gen~45:1--11)
 
 \red{Note:} Get someone to read \red{Gen~45:1--11}.
 
-\section{Joseph after his father's death Gen~50}
+\section{The test: Joseph after his father's death Gen~50}
 
 The death of Jacob is the real test. Joseph passes with
-flying colors
+flying colors. For those of you who watched the Godfather
+movies, you will recall that Michael Corleone waited until after his
+father's death to extract revenge on family members that he felt
+betrayed him. This is what Joseph's brothers feared.
 
 \red{Note:} Get someone to read \red{Gen~50:15--21}.
 
+\red{Note:} The clear type of Christ. God uses a sinful act by brutish
+men (Joseph's brothers) to place one man in a position to save many
+lives.
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
