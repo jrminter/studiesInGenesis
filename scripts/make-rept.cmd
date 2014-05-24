@@ -1,6 +1,5 @@
-
 cd ../Sweave/
-R CMD Sweave  studiesInGenesis
+R CMD Sweave studiesInGenesis.Rnw
 # R CMD Stangle studiesInGenesis
 pdflatex studiesInGenesis
 bibtex studiesInGenesis
