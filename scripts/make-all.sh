@@ -1,0 +1,10 @@
+./make-wk01-notes.sh
+./make-wk02-notes.sh
+./make-wk03-notes.sh
+./make-wk04-notes.sh
+./make-wk05-notes.sh
+./make-wk06-notes.sh
+./make-wk07-notes.sh
+./make-wk08-notes.sh
+./make-wk09-notes.sh
+./make-wk10-notes.sh
