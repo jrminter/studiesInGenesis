@@ -72,7 +72,28 @@ some terrible circumstances. God uses these to mold Joseph's character
 and save His people from famine, a plan God had revealed to Abram in
 Gen~15:13.
 
-\section{Joseph's youth: Gen~37:1-11}
+\red{Note:} Get someone to read \red{Gen~15:13--16}.
+
+\begin{quote}
+\textbf{$^{13}$}Then the LORD said to Abram, ``Know for certain that
+your offspring will be sojourners in a land that is not theirs and will 
+be servants there, and they will be \red{afflicted} for four
+hundred years. 
+\textbf{$^{14}$}But I will bring judgment on the nation that they serve, 
+and afterward they shall come out with great possessions.
+\textbf{$^{16}$}As for you, you shall go to your fathers in peace; you 
+shall be buried in a good old age. \textbf{$^{16}$}And they shall come 
+back here in the fourth generation, for the \red{iniquity} of the
+Amorites is not yet complete.''
+\end{quote}
+
+We must ask ourselves, ``What lesson is God trying to teach
+us through this object lesson?'' May I suggest that it is for
+us to see sin as He does and understand our need for His deliverance.
+God uses the actions of sinful men to teach the needed lessons to
+those He calls to serve Him.
+
+\section{Joseph's youth (the ``annoying little brother'': \\  Gen~37:1-11}
 
 \begin{itemize}
   \item We first encounter Joseph at age 17, tending his father's 
@@ -80,26 +101,30 @@ Gen~15:13.
   \item We discover that Jacob loved Joseph more than his other sons
   since he was the son of his old age, and showed it with the
   gift of a many-colored coat. As a result, Joseph's brothers
-  detested him [Gen~37:3--4]. Wouldn't you think Jacob would have learned
+  detested him [Gen~37:3--4]. \vskip 1pt
+  Wouldn't you think Jacob would have learned
   from his own school of hard knocks that such favoritism doesn't end
   well\ldots.
   \item Joseph has dreams of His rise to greatness and unwisely shares
-  them with his brothers [Gen~37:5-11]
+  them with his brothers [Gen~37:5--11]
+  
+  \red{Note:} Get someone to read \red{Gen~37:5-11}.
 \end{itemize}
 
 \section{The plot against Joseph Gen~37:12-36}
 \begin{itemize}
   \item Jacob sends Joseph to his brothers near Shechem and to bring
-  him word. (Gen~37:12--14) Is Jacob really this clueless???
+  him word. (Gen~37:12--14) \vskip 1pt
+  Is Jacob really this clueless???
   \item The brothers see him from afar and conspire to kill him.
   (Gen~37:18--20)
-  \item Reuben shows a concience and wants to spare Joseph's life,
-  but instead toss him into a pit, hoping to rescue him
-  later(Gen~37:21--22)
+  \item Reuben (the firstborn) shows a concience and wants to spare
+  Joseph's life, but instead toss him into a pit, hoping to rescue him
+  later (Gen~37:21--22)
   \item They do this and stop to eat, where the notice a passing
-  caravan (providence is remarkable\ldots) (Gen~37:23--25)
-  \item Judah has the bright idea to sell him into slavery and
-  make a profit, and they do -- aparently without Reuben's
+  caravan (\red{providence is remarkable\ldots}) (Gen~37:23--25)
+  \item Judah (the ringleader) has the bright idea to sell him into 
+  slavery and make a profit, and they do -- aparently without Reuben's
   knowledge. (Gen~37: 26--28)
   \item Reuben returns later and finds Joseph gone, so the other
   brothers continue the ruse, slaughter a goat and tear Joseph's
@@ -111,14 +136,59 @@ Gen~15:13.
 \end{itemize}
 
 \section{Joseph and Potiphar's wife Gen~39}
+So Joseph finds himself a slave in the service of Potiphar and God
+blesses him, causing him to gain Potiphar's respect.
 
-\section{Joseph in prison Gen~40}
+\red{Note:} Get someone to read \red{Gen~39:1--6}.
+
+\red{Q:} How has Joseph's character and maturity been changed in this
+ordeal?
+
+Potiphar's wife makes an advance and accuses Joseph unjustly
+when he spurns her advannce beause it would dishonor God and
+Potiphar (Gen~39:7--19).
+
+Potiphar believes his wife and throws Joseph in prison. No
+good deed goes unpunished\ldots. But note this in no way
+shackles God. (Gen~39:20--23).
+
+\red{Q:} What would the text have us conclude about Joseph's
+character and demanor in prison?
+
+\section{Joseph's encounters in prison Gen~40}
+
+Joseph encounters two prisoners with dreams in prison. God explains
+the meaning to Joseph and he speaks honestly. He is right, but is
+forgotten to languish in prison until God's time is right.
 
 \section{Joseph intepret's Pharoah's dream Gen~41}
 
+\red{Note:} Get someone to read \red{Gen~41:1--8}.
+
+\red{Note:} Get someone to read \red{Gen~41:25--40}.
+
+Note how God puts Joseph in the position to save many lives.
+
 \section{Joseph and his family Gen~41}
 
+Meanwhile, back at the ranch, Jacob and his sons are starving.
+They hear about Egypt and got to buy bread (Gen~41:56--42:5).
+
+Joseph recognizes his brothers, though they don't recognize him.
+He plans to test his brothers' character (Gen~42:7--17)
+
+Joseph reveals his identity to his brothers and has a remarkable
+perspective on his ordeal (Gen~45:1--11)
+
+\red{Note:} Get someone to read \red{Gen~45:1--11}.
+
 \section{Joseph after his father's death Gen~50}
+
+The death of Jacob is the real test. Joseph passes with
+flying colors
+
+\red{Note:} Get someone to read \red{Gen~50:15--21}.
+
 
 % For bibtex...
 \bibliographystyle{IEEEtran}  % (uses file "IEEEtran.bst")
