@@ -40,11 +40,11 @@ pdfkeywords={\theKeywords}
 %
 
 \begin{document}
-\SweaveOpts{concordance=TRUE}
+%\VignetteEngine{knitr::knitr}
 %
 % Set up Sweave...
 %
-<<echo=F,results=hide>>=
+<<echo=F,results="hide">>=
 # A hidden code chunk
 # start with a clean environment
 rm(list=ls())
@@ -56,7 +56,7 @@ Sys.setenv(TEXINPUTS=str.wd)
 Sys.setenv(BIBINPUTS=str.wd)
 Sys.setenv(BSTINPUTS=str.wd)
 # make sure needed packages & functions are loaded
-require(xtable)
+library(xtable)
 @
 
 % use a custom title
